@@ -178,59 +178,77 @@ days:
         title: "Rientro"
         description: "Rientro a casa"
         link: ""
+ 
+  - id: 4
+    name: "Giorno 4"
+    date: "Martedì 18 Agosto - Foresta Nera"
+    morning:
+      - time: "08:00"
+        title: "Partenza da Colmar per foresta nera."
+        description: "Il lago Titisee è una destinazione nota per i suoi paesaggi mozzafiato e le impressionanti meraviglie naturali. La città si trova nel cuore della Foresta Nera, nella Germania meridionale"
+        link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Titisee+Lake,+Seestra%C3%9Fe,+79822+Titisee-Neustadt,+Germania/@47.923673,7.4258605,55565m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x4790f0e52eb5a9eb:0x98bbbbbabbd196de!2m2!1d8.1526957!2d47.8994382!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        suggerimenti: 
+          - "Questo è il giorno con più strada: parti presto."
+      
+      - time: "09:30"
+        title: "Arrivo"
+        description: "Arrivo al lago Titisee"
+        link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Titisee+Lake,+Seestra%C3%9Fe,+79822+Titisee-Neustadt,+Germania/@47.923673,7.4258605,55565m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x4790f0e52eb5a9eb:0x98bbbbbabbd196de!2m2!1d8.1526957!2d47.8994382!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        suggerimenti: "Parcheggiare al parcheggio Neustädter Straße vicino al centro e al lago"
+  
+      - time: "12.30"
+        title: "Pranzo"
+        description: "Pranzo sul lungo lago"
+        link:
+
+    afternoon:
+      - time: "14:00"
+        title: "Partenza per Triberg"
+        description: "Viaggio verso il paese degli orologi a cucu"
+        link: "https://www.google.com/maps/dir/Titisee+Lake,+Seestra%C3%9Fe,+79822+Titisee-Neustadt,+Germania/Triberg+im+Schwarzwald,+78098,+Germania/@48.0323952,7.9737181,47366m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x4790f0e52eb5a9eb:0x98bbbbbabbd196de!2m2!1d8.1526957!2d47.8994382!1m5!1m1!1s0x4790c2354309fcab:0x41f6bb7a5df8960!2m2!1d8.2324351!2d48.1301564!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D""
+
+      - time: "14.50"
+        title: "Triberg"
+        description: "Triberg è il paese degli orologi a cucu"
+        link: "https://infodiviaggio.it/triberg-germania-cosa-vedere-foresta-nera/"
+             
+      - time: "15:50"
+        title: "Cascate"
+        description: "Cascate di Triberg"
+        link: "https://www.schwarzwaldportal.com/it/ausflugsziel-triberger-wasserfaelle.html"
+        suggerimenti: "Calcola almeno 2 ore per le cascate"
+      
+      - time: "17:50"
+        title: "Stonach"
+        description: "Partenza per Stonach"
+        link: "https://www.google.com/maps/dir/Cascate+di+Triberg,+Wallfahrtstra%C3%9Fe+1,+78098+Triberg+im+Schwarzwald,+Germania/Schonach+im+Schwarzwald,+Germania/@48.1356793,8.1960465,3459m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x4790c2f5f1435c49:0xecc197b03ff8ef0!2m2!1d8.2301745!2d48.1283833!1m5!1m1!1s0x4790c2de660b944d:0x4847380f409db91a!2m2!1d8.2027572!2d48.1424407!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+      
+      - time: "18:00"
+        title: "Arrivo a Stonach"
+        description: "Visita della cittadina e dell'orologio a cucu più grande del mondo"
+        link: "https://www.schwarzwaldportal.com/it/schonach.html"
+      
+      - time: "19:00"
+        title: "Rientro"
+        description: "Rientro a Colmar"
+        link: "https://www.google.com/maps/dir/Schonach+im+Schwarzwald,+Germania/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/@47.9937021,7.1273025,110979m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x4790c2de660b944d:0x4847380f409db91a!2m2!1d8.2027572!2d48.1424407!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+      
+      
+    evening:
+      - time: "20:40"
+        title: "Arrivo a Colmar"
+        description: "Arrivo a Colmar e cena"
+        link: ""
+        suggerimenti: "Valutare se fermarsi per strada per la cena"
 
 
-#   - id: 3
-#     name: "Giorno 3"
-#     date: "Lunedì 17 Agosto - Strasburgo"
-#     morning:
-#       - time: "07:00"
-#         title: "Colazione"
-#         description: "Colazione"
-#         link: ""
-#       - time: "08:00"
-#         title: "Destinazione Strasburgo"
-#         description: "Partenza per Strasburgo"
-#         link: ""
-#       - time: "09:00"
-#         title: "Arrivo a Strasburgo"
-#         description: "Parcheggio"
-#         link: ""
-#       - time: "09:30"
-#         title: "Autobus"
-#         description: "Prendere autobus per centro storico"
-#         link: ""
-#       - time: "10:00"
-#         title: "Cattedrale"
-#         description: "Cattedrale di nostra Signora con orologio astronomico"
-#         link: "https://www.visitstrasbourg.fr/it/fiche-sit/F223007269_la-cattedrale-notre-dame-strasbourg-it/"
-#       - time: "11:30"
-#         title: "Petite France"
-#         description: "Quartiere Petite France, è il quartiere dei conciatori, dei pescatori e dei mugnai"
-#         link: "https://www.visitstrasbourg.fr/it/scoprire/strasburgo-e-dintorni/petite-france/"
-#       - time: "12:30"
-#         title: "Pranzo"
-#         description: "Pranzo"
-#         link: ""
 
-#     afternoon:
-#       - time: "14:30"
-#         title: "Giro in battello (facoltativo)"
-#         description: "Escursione in battello con compagnia Batorama arrivando al quartiere Europeo (Parlamento)"
-#         link: ""
-#       - time: "16:30"
-#         title: "Rientro a casa"
-#         description: "Partenza per Colmar"
-#         link: ""
-#       - time: "17:30"
-#         title: "Arrivo a Colmar e relax"
-#         description: ""
-#         link: ""
-#     evening:
-#       - time: "20:00"
-#         title: "Cena"
-#         description: "Cena"
-#         link: ""
+
+
+
+
+
+
       
 #   - id: 4
 #     name: "Giorno 4"
