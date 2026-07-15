@@ -133,7 +133,7 @@ days:
 
   - id: 3
     name: "Giorno 3"
-    date: "Lunedì 17 Agosto - I Borgi della strada dei vini "
+    date: "Lunedì 17 Agosto - I Borghi della strada dei vini "
     morning:
       - time: "08:00"
         title: "Strade colorate di Riquewihr"
