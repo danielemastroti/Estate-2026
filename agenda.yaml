@@ -2,7 +2,7 @@
 # Casa Colmar 9, route Bale, 68000 Colmar 
 days:
   - id: 1
-    name: "Giorno 1"
+    name: "Giorno 1 - Partenza!"
     date: "Sabato 15 Agosto"
     morning:
       - time: "07:30"
