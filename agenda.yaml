@@ -69,11 +69,13 @@ days:
         title: "Partenza per Friburgo"
         description: "Parcheggio P&R Bissierstraße 7, 79114 Freiburg im Breisgau o in alternativa Park & Ride Munzinger Straße, Munzinger Str. 1b - arrivare non oltre le 9.30 "
         link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Park+and+Ride,+Bissierstra%C3%9Fe+7,+79114+Freiburg+im+Breisgau-West,+Germania/@47.923673,7.2600389,55565m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x47911b6d6515b9bf:0x8ecd69021b49612a!2m2!1d7.8193169!2d48.0017464?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
-      
+        suggerimenti: "Se non hai il bollino ambientale, parcheggia nei Park&Ride"
+
       - time: "08:30"
         title: "Arrivo parcheggio Friburgo"
         description: "Arrivo a parcheggio P&R Bissierstraße, 7 - Acquistare il biglietto P+R con titolo di viaggio giornaliero dal distributore del parcheggio"
         link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Park+and+Ride,+Bissierstra%C3%9Fe+7,+79114+Freiburg+im+Breisgau-West,+Germania/@47.923673,7.2600389,55565m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x47911b6d6515b9bf:0x8ecd69021b49612a!2m2!1d7.8193169!2d48.0017464?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        suggerimenti: ""
 
       - time: "09:00"
         title: "Partenza per centro storico di Friburgo"
@@ -120,6 +122,7 @@ days:
         title: "Bächle"
         description: "Bächle"
         link: "https://worldcitytrail.com/it/2025/07/27/il-bachle-a-freiburg/" 
+        suggerimenti: "Controlla che nei Bächle non galleggi una paperella: è una tradizione simpatica della città"
       
     evening:
       - time: "20:00"
@@ -127,68 +130,53 @@ days:
         description: "Cena in un Biergarten ad esempio Kastaniengarten"
         link: "https://www.komoot.com/it-it/highlight/296788"
 
+  - id: 3
+    name: "Giorno 3"
+    date: "Lunedì 17 Agosto - I Borgi della strada dei vini "
+    morning:
+      - time: "08:00"
+        title: "Strade colorate di Riquewihr"
+        description: "Riquewihr (14 Km - 29 min) - Il borgo ha ispirato 'La Bella e la bestia'"
+        link: "https://infodiviaggio.it/riquewihr-cosa-vedere-francia-alsazia/"
+        suggerimenti: "Le fotografie migliori si scattano nelle prime ore del mattino."
 
+      - time: "10:30"
+        title: "La Fortezza a Enguisheim"
+        description: "Enguisheim (16 Km - 23 min) - Pianta circolare fortificata"
+        link: "https://infodiviaggio.it/eguisheim-cosa-vedere-francia-alsazia/"
+      
+      - time: "12:30"
+        title: "Kaysersberg"
+        description: "Arrivo e pranzo a Kaysersberg (12 Km - 18 min)"
+        link: "https://infodiviaggio.it/kaysersberg-cosa-vedere-francia-alsazia/"
 
-#     Mattina
-
-# Münsterplatz
-# Cattedrale
-# Mercato cittadino
-
-# Pomeriggio
-
-# Schlossberg
-# Funicolare
-# Centro storico
-# Bächle
-
-# Sera
-# Cena in un Biergarten.
+    afternoon:
+      - time: "14:00"
+        title: "Castello"
+        description: "Castello di Kaysersberg e panorama sui vigneti"
+        link: "https://www.france-voyage.com/francia-citta/kaysersberg-vignoble-27053/castello-kaysersberg-12598.htm"
+      
+      - time: "16:00"
+        title: "Degustazione vini (facoltativo)"
+        description: "Degustazione vini (Gewurztraminer e Riesling) in cantina locale lungo il percorso"
+        link: ""
+        suggerimenti: "Acquista qualche bottiglia direttamente dai produttori: spesso i prezzi sono molto convenienti."
+      
+      - time: "18:00"
+        title: "Rientro a casa"
+        description: "Rientro a Colmar e relax"
+        link: ""
     
-#     Münsterplatz
-# Cattedrale
-# Mercato cittadino
-
-
-#   - id: 102
-#     name: "Giorno 2"
-#     date: "Domenica 16 Agosto - I Borgi della strada dei vini "
-#     morning:
-#       - time: "07:00"
-#         title: "Strade colorate di Riquewihr"
-#         description: "Riquewihr (14 Km - 29 min) - Il borgo ha ispirato 'La Bella e la bestia'"
-#         link: "https://infodiviaggio.it/riquewihr-cosa-vedere-francia-alsazia/"
-#       - time: "10:30"
-#         title: "La Fortezza a Enguisheim"
-#         description: "Enguisheim (16 Km - 23 min) - Pianta circolare fortificata"
-#         link: "https://infodiviaggio.it/eguisheim-cosa-vedere-francia-alsazia/"
-#       - time: "12:30"
-#         title: "Kaysersberg"
-#         description: "Arrivo e pranzo a Kaysersberg (12 Km - 18 min)"
-#         link: "https://infodiviaggio.it/kaysersberg-cosa-vedere-francia-alsazia/"
-
-#     afternoon:
-#       - time: "14:00"
-#         title: "Castello"
-#         description: "Castello di Kaysersberg e panorama sui vigneti"
-#         link: "https://www.france-voyage.com/francia-citta/kaysersberg-vignoble-27053/castello-kaysersberg-12598.htm"
-#       - time: "16:00"
-#         title: "Degustazione vini (facoltativo)"
-#         description: "Degustazione vini (Gewurztraminer e Riesling) in cantina locale lungo il percorso"
-#         link: ""
-#       - time: "18:00"
-#         title: "Rientro a casa"
-#         description: "Rientro a Colmar e relax"
-#         link: ""
-#     evening:
-#       - time: "20:00"
-#         title: "Cena"
-#         description: "Cena a Colmar"
-#         link: ""
-#       - time: "22:00"
-#         title: "Rientro"
-#         description: "Rientro a casa"
-#         link: ""
+    evening:
+      - time: "20:00"
+        title: "Cena"
+        description: "Cena a Colmar"
+        link: ""
+      
+      - time: "22:00"
+        title: "Rientro"
+        description: "Rientro a casa"
+        link: ""
 
 
 #   - id: 3
