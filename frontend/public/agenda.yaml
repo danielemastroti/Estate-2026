@@ -130,6 +130,12 @@ days:
         title: "Cena"
         description: "Cena in un Biergarten ad esempio Kastaniengarten"
         link: "https://www.komoot.com/it-it/highlight/296788"
+      
+      - time: "22:00"
+        title: "Rientro"
+        description: "Rientro a Colmar"
+        link: "https://www.google.com/maps/dir/Kastaniengarten,+Schlossbergring+3,+79098+Freiburg+im+Breisgau-S%C3%BCd,+Germania/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/@48.0117553,7.2790686,55470m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47911c9829cc975d:0xb879f13ea1bb3fba!2m2!1d7.8555961!2d47.9926791!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+      
 
   - id: 3
     name: "Giorno 3"
