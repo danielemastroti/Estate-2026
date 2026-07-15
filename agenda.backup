@@ -2,7 +2,7 @@
 days:
   - id: 1
     name: "Giorno 1"
-    date: "Sabato 15 Agosto"
+    date: "Lunedì 15 Gennaio"
     morning:
       - time: "08:00"
         title: "Colazione al hotel"
@@ -41,7 +41,7 @@ days:
 
   - id: 2
     name: "Giorno 2"
-    date: "Domenica 16 Agosto"
+    date: "Martedì 16 Gennaio"
     morning:
       - time: "07:00"
         title: "Jogging al parco"
@@ -80,7 +80,7 @@ days:
 
   - id: 3
     name: "Giorno 3"
-    date: "Lunedì 17 Agosto"
+    date: "Mercoledì 17 Gennaio"
     morning:
       - time: "08:00"
         title: "Colazione"
@@ -119,7 +119,7 @@ days:
 
   - id: 4
     name: "Giorno 4"
-    date: "Martedì 18 Agosto"
+    date: "Giovedì 18 Gennaio"
     morning:
       - time: "08:30"
         title: "Colazione"
@@ -154,7 +154,7 @@ days:
 
   - id: 5
     name: "Giorno 5"
-    date: "Mercoledì 19 Agosto"
+    date: "Venerdì 19 Gennaio"
     morning:
       - time: "07:30"
         title: "Sveglia presto"
@@ -193,7 +193,7 @@ days:
 
   - id: 6
     name: "Giorno 6"
-    date: "Giovedì 20 Agosto"
+    date: "Sabato 20 Gennaio"
     morning:
       - time: "09:00"
         title: "Colazione con vista mare"
@@ -228,7 +228,7 @@ days:
 
   - id: 7
     name: "Giorno 7"
-    date: "Venerdì 21 Agosto"
+    date: "Domenica 21 Gennaio"
     morning:
       - time: "10:00"
         title: "Brunch domenicale"
@@ -259,7 +259,7 @@ days:
 
   - id: 8
     name: "Giorno 8"
-    date: "Sabato 22 Agosto"
+    date: "Lunedì 22 Gennaio"
     morning:
       - time: "08:00"
         title: "Check-out hotel mare"
@@ -294,7 +294,7 @@ days:
 
   - id: 9
     name: "Giorno 9"
-    date: "Domenica 23 Agosto"
+    date: "Martedì 23 Gennaio"
     morning:
       - time: "07:00"
         title: "Yoga mattutino"
@@ -333,7 +333,7 @@ days:
 
   - id: 10
     name: "Giorno 10"
-    date: "Lunedì 24 Agosto"
+    date: "Mercoledì 24 Gennaio"
     morning:
       - time: "08:00"
         title: "Check-out terme"
@@ -372,7 +372,7 @@ days:
 
   - id: 11
     name: "Giorno 11"
-    date: "Martedì 24 Agosto"
+    date: "Giovedì 25 Gennaio"
     morning:
       - time: "09:00"
         title: "Colazione"
@@ -407,7 +407,7 @@ days:
 
   - id: 12
     name: "Giorno 12"
-    date: "Mercoledì 26 Agosto"
+    date: "Venerdì 26 Gennaio"
     morning:
       - time: "08:30"
         title: "Colazione"
@@ -442,7 +442,7 @@ days:
 
   - id: 13
     name: "Giorno 13"
-    date: "Giovedì 27 Agosto"
+    date: "Sabato 27 Gennaio"
     morning:
       - time: "09:30"
         title: "Brunch"
@@ -473,7 +473,7 @@ days:
 
   - id: 14
     name: "Giorno 14"
-    date: "Venerdì 28 Agosto"
+    date: "Domenica 28 Gennaio"
     morning:
       - time: "10:00"
         title: "Late breakfast"
@@ -508,7 +508,7 @@ days:
 
   - id: 15
     name: "Giorno 15"
-    date: "Sabato 29 Agosto"
+    date: "Lunedì 29 Gennaio"
     morning:
       - time: "08:00"
         title: "Check-out"
@@ -543,4 +543,183 @@ days:
       - time: "21:00"
         title: "Osservazione stelle"
         description: "Zero inquinamento luminoso"
+        link: ""
+
+  - id: 16
+    name: "Giorno 16"
+    date: "Martedì 30 Gennaio"
+    morning:
+      - time: "07:00"
+        title: "Raccolta uova fresche"
+        description: "Esperienza fattoria"
+        link: ""
+      - time: "08:00"
+        title: "Colazione con prodotti locali"
+        description: ""
+        link: ""
+      - time: "10:00"
+        title: "Trekking collinare"
+        description: ""
+        link: ""
+    afternoon:
+      - time: "13:00"
+        title: "Pranzo al sacco"
+        description: ""
+        link: ""
+      - time: "15:00"
+        title: "Visita castello medievale"
+        description: ""
+        link: ""
+      - time: "17:30"
+        title: "Rientro agriturismo"
+        description: ""
+        link: ""
+    evening:
+      - time: "20:00"
+        title: "Cena BBQ"
+        description: "Grigliata all'aperto"
+        link: ""
+
+  - id: 17
+    name: "Giorno 17"
+    date: "Mercoledì 31 Gennaio"
+    morning:
+      - time: "08:30"
+        title: "Colazione"
+        description: ""
+        link: ""
+      - time: "09:30"
+        title: "Laboratorio formaggi"
+        description: "Fare il formaggio"
+        link: ""
+      - time: "11:30"
+        title: "Degustazione formaggi"
+        description: ""
+        link: ""
+    afternoon:
+      - time: "13:00"
+        title: "Pranzo rustico"
+        description: ""
+        link: ""
+      - time: "14:30"
+        title: "Raccolta verdure orto"
+        description: ""
+        link: ""
+      - time: "16:00"
+        title: "Lezione cucina contadina"
+        description: ""
+        link: ""
+    evening:
+      - time: "19:00"
+        title: "Cena preparata insieme"
+        description: ""
+        link: ""
+      - time: "21:00"
+        title: "Giochi da tavolo"
+        description: ""
+        link: ""
+
+  - id: 18
+    name: "Giorno 18"
+    date: "Giovedì 1 Febbraio"
+    morning:
+      - time: "08:00"
+        title: "Colazione d'addio"
+        description: ""
+        link: ""
+      - time: "09:30"
+        title: "Foto di gruppo"
+        description: ""
+        link: ""
+      - time: "10:00"
+        title: "Partenza verso aeroporto"
+        description: "3 ore viaggio"
+        link: ""
+    afternoon:
+      - time: "13:00"
+        title: "Pranzo in autostrada"
+        description: "Autogrill"
+        link: ""
+      - time: "14:00"
+        title: "Arrivo aeroporto"
+        description: ""
+        link: ""
+      - time: "15:00"
+        title: "Check-in volo"
+        description: ""
+        link: ""
+    evening:
+      - time: "18:00"
+        title: "Volo di ritorno"
+        description: "Flight AB123"
+        link: ""
+      - time: "21:00"
+        title: "Arrivo a casa"
+        description: ""
+        link: ""
+
+  - id: 19
+    name: "Giorno 19"
+    date: "Venerdì 2 Febbraio"
+    morning:
+      - time: "09:00"
+        title: "Riposo"
+        description: "Recupero jet lag"
+        link: ""
+      - time: "11:00"
+        title: "Sistemare valigie"
+        description: ""
+        link: ""
+    afternoon:
+      - time: "13:00"
+        title: "Pranzo a casa"
+        description: ""
+        link: ""
+      - time: "15:00"
+        title: "Condividere foto"
+        description: "Album digitale"
+        link: ""
+      - time: "17:00"
+        title: "Riposo"
+        description: ""
+        link: ""
+    evening:
+      - time: "20:00"
+        title: "Cena semplice"
+        description: ""
+        link: ""
+
+  - id: 20
+    name: "Giorno 20"
+    date: "Sabato 3 Febbraio"
+    morning:
+      - time: "10:00"
+        title: "Colazione rilassata"
+        description: ""
+        link: ""
+      - time: "11:00"
+        title: "Revisione spese viaggio"
+        description: ""
+        link: ""
+    afternoon:
+      - time: "13:00"
+        title: "Pranzo"
+        description: ""
+        link: ""
+      - time: "15:00"
+        title: "Scrivere ricordi"
+        description: "Diario di viaggio"
+        link: ""
+      - time: "17:00"
+        title: "Pianificare prossimo viaggio"
+        description: "Idee future"
+        link: ""
+    evening:
+      - time: "19:30"
+        title: "Cena con amici"
+        description: "Raccontare avventure"
+        link: ""
+      - time: "22:00"
+        title: "Proiezione foto"
+        description: "Slideshow viaggio"
         link: ""
