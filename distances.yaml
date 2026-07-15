@@ -27,7 +27,11 @@ routes:
     duration: "18 minuti"
     notes: ""
     
-  
+  - from: "Colmar"
+    to: "Strasburgo"
+    distance: "73 km"
+    duration: "1 ora"
+    notes: ""
 
 tips:
   - "Considera 30 minuti extra per il traffico nelle ore di punta"
