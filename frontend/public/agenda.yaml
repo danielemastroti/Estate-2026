@@ -1,47 +1,49 @@
 # Agenda - 20 Giorni
+# Casa Colmar 9, route Bal3, 68000 Colmar 
 days:
   - id: 1
     name: "Giorno 1"
     date: "Sabato 15 Agosto"
     morning:
-      - time: "06:00"
+      - time: "07:30"
         title: "Partenza"
         description: "Partenza per Colmar da Settimo Milanese (394Km)"
         link: "https://www.google.com/maps/dir/Settimo+Milanese,+20019+MI/Subtil+Insolite,+9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/@46.7524558,5.5676037,454491m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x4786ea24fd7ea195:0xcbf916c5b8dd815f!2m2!1d9.0568149!2d45.486608!1m5!1m1!1s0x479165ef113a9f37:0xd6457bac21678f98!2m2!1d7.360869!2d48.0717867!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
 
-      - time: "11:00"
-        title: "Arrivo a Colmar - Subtil Insolite, 9 Route de Bâle"
+      - time: "12:30"
+        title: "Arrivo a Centro storico di Colmar e Pranzo a Marché Couvert"
         description: "Arrivo a Colmar e sistemazione"
-        link: ""
-      
-      - time: "12:00"
-        title: "Centro storico"
-        description: "Centro storico di Colmar e Pranzo a Marché Couvert"
         link: "https://www.marche-couvert-colmar.fr/index.html"
-    
-    afternoon:
-      - time: "14:30"
-        title: "Museo Unterlinden"
-        description: "Visita museo (facoltativo) con Altare di Issenheim"
-        link: "https://it.wikipedia.org/wiki/Mus%C3%A9e_d%27Unterlinden" 
       
-      - time: "16:30"
+         
+    afternoon:
+      - time: "14:00"
         title: "Maison Pfister"
         description: "Caratteristico e storico edificio della città"
         link: "https://it.wikipedia.org/wiki/Casa_Pfister" 
-
-      - time: "17:00"
+      
+      - time: "15:00"
         title: "Collegiata di San Martino"
         description: "Visita alla cattedrale"
         link: "https://it.wikipedia.org/wiki/Collegiata_di_San_Martino_(Colmar)" 
 
-      - time: "18:00"
-        title: "Petite Venice"
+      - time: "16:30"
+        title: "Check-in"
+        description: "Check-in presso Subtil insolite, 9 Route de Bâle"
+        link: "" 
+      
+      - time: "17:00"
+        title: "Spesa"
+        description: "Spesa e tempo libero"
+        link: "" 
+
+      - time: "19:30"
+        title: "Petite Venice spostare su altro giorno"
         description: "Visita quartiere Petite Venice e giro in barca (facoltativo)"
         link: "https://www.tripadvisor.it/Attraction_Review-g187073-d523501-Reviews-Little_Venice-Colmar_Haut_Rhin_Grand_Est.html"
       
-      - time: "19:00"
-        title: "Giro in barca"
+      - time: "20:00"
+        title: "Giro in barca su altro giorno"
         description: "Giro in barca (facoltativo) - Meglio prenotare"
         link: "https://sweet-narcisse.fr/it"
 
@@ -77,18 +79,18 @@ days:
       
       - time: "09:20"
         title: "Münsterplatz"
-        description: ""
-        link: ""
+        description: "Piazza vivace che circonda il magnifico Duomo di Friburgo"
+        link: "https://www.mycityhunt.it/citta/friburgo-de-5227/poi/muensterplatz-38823"
       
       - time: "10:00"
-        title: "Cattedrale"
-        description: ""
-        link: ""
+        title: "Cattedrale di Nostra Signora"
+        description: "La cattedrale di Friburgo in Brisgovia, è una delle poche grandi chiese gotiche tedesche la cui costruzione fu portata a termine ancora in epoca medievale"
+        link: "https://it.wikipedia.org/wiki/Cattedrale_di_Friburgo_in_Brisgovia"
 
       - time: "11:00"
         title: "Münstermarkt"
-        description: ""
-        link: ""
+        description: "Un mercato vivace e animato situato nella vivace piazza di Munsterplatz"
+        link: "https://wanderlog.com/it/place/details/1195805/m%C3%BCnstermarkt"
 
       - time: "12:30"
         title: "Pranzo"
@@ -121,6 +123,7 @@ days:
         title: "Cena"
         description: "Cena in un Biergarten ad esempio Kastaniengarten"
         link: "https://www.komoot.com/it-it/highlight/296788"
+
 
 
 #     Mattina
