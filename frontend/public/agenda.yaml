@@ -80,7 +80,7 @@ days:
       - time: "09:00"
         title: "Partenza per centro storico di Friburgo"
         description: "Prendere tram linea 3 (Stadtbahn 3) in direzione Vauban, scendere a Bertoldsbrunnen"
-        link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Park+and+Ride,+Bissierstra%C3%9Fe+7,+79114+Freiburg+im+Breisgau-West,+Germania/@47.923673,7.2600389,55565m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x47911b6d6515b9bf:0x8ecd69021b49612a!2m2!1d7.8193169!2d48.0017464?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        link: "https://www.google.com/maps/dir/Park+and+Ride,+Bissierstra%C3%9Fe+7,+79114+Freiburg+im+Breisgau-West,+Germania/Bertoldsbrunnen,+Kaiser-Joseph-Stra%C3%9Fe+205,+79098+Freiburg+im+Breisgau,+Germania/@47.9991791,7.8141213,3468m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47911b6d6515b9bf:0x8ecd69021b49612a!2m2!1d7.8193169!2d48.0017464!1m5!1m1!1s0x47911c9eca80a3af:0xd87ea1c64b9ff12d!2m2!1d7.8498649!2d47.9948927!3e3?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
       
       - time: "09:20"
         title: "Münsterplatz"
@@ -189,12 +189,13 @@ days:
         link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Titisee+Lake,+Seestra%C3%9Fe,+79822+Titisee-Neustadt,+Germania/@47.923673,7.4258605,55565m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x4790f0e52eb5a9eb:0x98bbbbbabbd196de!2m2!1d8.1526957!2d47.8994382!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
         suggerimenti: 
           - "Questo è il giorno con più strada: parti presto."
+          - "Parcheggiare al parcheggio Neustädter Straße vicino al centro e al lago"
+  
       
       - time: "09:30"
         title: "Arrivo"
         description: "Arrivo al lago Titisee"
-        link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Titisee+Lake,+Seestra%C3%9Fe,+79822+Titisee-Neustadt,+Germania/@47.923673,7.4258605,55565m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x4790f0e52eb5a9eb:0x98bbbbbabbd196de!2m2!1d8.1526957!2d47.8994382!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
-        suggerimenti: "Parcheggiare al parcheggio Neustädter Straße vicino al centro e al lago"
+        link: "https://www.schwarzwaldportal.com/it/ausflugsziel-titisee.html"
   
       - time: "12.30"
         title: "Pranzo"
@@ -216,7 +217,7 @@ days:
         title: "Cascate"
         description: "Cascate di Triberg"
         link: "https://www.schwarzwaldportal.com/it/ausflugsziel-triberger-wasserfaelle.html"
-        suggerimenti: "Calcola almeno 2 ore per le cascate"
+        suggerimenti: "Calcolare almeno 2 ore per le cascate"
       
       - time: "17:50"
         title: "Stonach"
