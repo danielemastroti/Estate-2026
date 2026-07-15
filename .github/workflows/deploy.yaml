@@ -44,4 +44,3 @@ jobs:
           publish_dir: ./build
           publish_branch: gh-pages
           commit_message: 'Deploy to GitHub Pages'
-S
