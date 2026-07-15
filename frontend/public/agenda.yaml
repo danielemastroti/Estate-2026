@@ -84,6 +84,7 @@ days:
         description: "Rientro a casa"
         link: ""
 
+
   - id: 3
     name: "Giorno 3"
     date: "Lunedì 17 Agosto"
