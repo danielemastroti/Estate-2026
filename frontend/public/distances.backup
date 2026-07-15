@@ -1,0 +1,36 @@
+# Distanze da percorrere in auto
+title: "Distanze e Tempi di Viaggio"
+description: "Tutte le tratte del viaggio con chilometri e tempi stimati"
+
+routes:
+  - from: "Settimo Milanese"
+    to: "Colmar"
+    distance: "399 km"
+    duration: "5 ore"
+    notes: "Traffico moderato al mattino"
+    
+  - from: "Colmar"
+    to: "Rinquewir"
+    distance: "14 Km"
+    duration: "29 minuti"
+    notes: ""
+    
+  - from: "Rinquewir"
+    to: "Enguisheim"
+    distance: "16 km"
+    duration: "23 minuti"
+    notes: ""
+    
+  - from: "Enguisheim"
+    to: "Kaysersberg"
+    distance: "12 km"
+    duration: "18 minuti"
+    notes: ""
+    
+  
+
+tips:
+  - "Considera 30 minuti extra per il traffico nelle ore di punta"
+  - "Considera di partire presto per i borghi per evitare i sovraffollamenti"
+  - "Fai rifornimento prima dei tratti autostradali lunghi"
+  - "GPS consigliato"
