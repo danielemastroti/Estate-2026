@@ -63,7 +63,7 @@ export const AgendaPage = () => {
         <div className="max-w-6xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between mb-4">
             <h1 className="text-3xl sm:text-4xl font-serif tracking-tighter text-slate-900">
-              Agenda Viaggio
+              Agenda Viaggio Estate 2026 - Colmar e Icogne
             </h1>
             <PrintButton />
           </div>
