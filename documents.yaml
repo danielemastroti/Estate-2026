@@ -1,0 +1,80 @@
+# Documenti e Informazioni
+title: "Documenti Necessari"
+description: "Lista completa dei documenti da portare"
+
+categories:
+  - name: "Documenti di Identità"
+    items:
+      - title: "Carta d'identità"
+        required: true
+        notes: "Valida, non scaduta"
+      - title: "Passaporto"
+        required: false
+        notes: "Solo per viaggi internazionali"
+      - title: "Patente di guida"
+        required: true
+        notes: "Necessaria per noleggio auto"
+        
+  - name: "Documenti di Viaggio"
+    items:
+      - title: "Biglietti aerei"
+        required: true
+        notes: "Stampa e copia digitale"
+      - title: "Voucher hotel"
+        required: true
+        notes: "Tutte le prenotazioni"
+      - title: "Assicurazione viaggio"
+        required: true
+        notes: "Polizza numero AV-2024-12345"
+      - title: "Noleggio auto"
+        required: true
+        notes: "Conferma prenotazione"
+        
+  - name: "Documenti Sanitari"
+    items:
+      - title: "Tessera sanitaria"
+        required: true
+        notes: "Per assistenza medica"
+      - title: "Prescrizioni mediche"
+        required: false
+        notes: "Se si assumono farmaci"
+      - title: "Certificato vaccinazioni"
+        required: false
+        notes: "Se richiesto"
+        
+  - name: "Documenti Finanziari"
+    items:
+      - title: "Carte di credito"
+        required: true
+        notes: "Almeno 2 diverse"
+      - title: "Contanti"
+        required: true
+        notes: "€500 consigliati"
+      - title: "PIN carte"
+        required: true
+        notes: "Annotare in luogo sicuro"
+
+important_numbers:
+  - service: "Emergenza"
+    number: "112"
+  - service: "Assistenza sanitaria"
+    number: "118"
+  - service: "Polizia"
+    number: "113"
+  - service: "Vigili del Fuoco"
+    number: "115"
+  - service: "Assistenza stradale"
+    number: "803 116"
+  - service: "Blocco carte di credito"
+    number: "800 822 056"
+
+contacts:
+  - name: "Hotel Centro Città"
+    phone: "+39 02 1234 5678"
+    email: "info@hotelcentro.it"
+  - name: "Agenzia Viaggi"
+    phone: "+39 06 9876 5432"
+    email: "booking@agenzia.it"
+  - name: "Guida Turistica"
+    phone: "+39 333 123 4567"
+    email: "guida@turismo.it"

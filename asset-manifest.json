@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Estate-2026/static/css/main.9ffb9309.css",
+    "main.js": "/Estate-2026/static/js/main.5858064a.js",
+    "index.html": "/Estate-2026/index.html",
+    "main.9ffb9309.css.map": "/Estate-2026/static/css/main.9ffb9309.css.map",
+    "main.5858064a.js.map": "/Estate-2026/static/js/main.5858064a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ffb9309.css",
+    "static/js/main.5858064a.js"
+  ]
+}
