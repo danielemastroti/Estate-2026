@@ -117,6 +117,7 @@ days:
         title: "Centro storico"
         description: "Giro nel centro storico"
         link: "" 
+        suggerimenti: "Da provare: Schnitzel, Birra locale, Brezel appena sfornati"
 
       - time: "19:00"
         title: "Bächle"
@@ -138,7 +139,7 @@ days:
         title: "Strade colorate di Riquewihr"
         description: "Riquewihr (14 Km - 29 min) - Il borgo ha ispirato 'La Bella e la bestia'"
         link: "https://infodiviaggio.it/riquewihr-cosa-vedere-francia-alsazia/"
-        suggerimenti: "Le fotografie migliori si scattano nelle prime ore del mattino."
+        suggerimenti: "Arriva presto per evitare la folla e le fotografie migliori si scattano nelle prime ore del mattino."
 
       - time: "10:30"
         title: "La Fortezza a Enguisheim"
