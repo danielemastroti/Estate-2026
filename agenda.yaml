@@ -268,10 +268,78 @@ days:
 
   - id: 5
     name: "Giorno 5"
-    date: "Mercoledì 19 Agosto"
+    date: "Mercoledì 19 Agosto - Strasburgo"
     morning:
+      - time: "08:00"
+        title: "Strasburgo"
+        description: "Partenza per Strasburgo"
+        link: 
+        mappa: "https://maps.app.goo.gl/QwgyYdCBUp6mzi187" 
+        suggerimenti: "Se non hai il bollino Crit'Air (necessario per alcune zone della ZFE di Strasburgo), la soluzione più comoda è non entrare nel centro storico in auto e usare un parcheggio scambiatore P+R (Park & Ride): lasci l'auto fuori dalla zona regolamentata e arrivi in centro con il tram. I P+R includono anche il trasporto pubblico per gli occupanti dell’auto (fino a 7 persone"
+      
+      - time: "09:00"
+        title: "Strasburgo"
+        description: "Arrivo a Strasburgo"
+        link: 
+        mappa: "https://maps.app.goo.gl/zTy3aebbL9Y6kPGT8" 
+
+      - time: "09:10"
+        title: "Tram per cattedrale"
+        description: "Prendere tram 'B' e '10' per Cattedrale"
+        link: 
+        mappa: "https://maps.app.goo.gl/i4b3DR5KAG5jpznQ8" 
+      
+      - time: "09:40"
+        title: "Cattedrale"
+        description: "La cattedrale di Strasburgo è un capolavoro assoluto dell’arte gotica. La costruzione della cattedrale romanica, di cui resta solo la cripta e la pianta, iniziò nel 1015. La guglia dell’edificio attuale, in stile gotico, fu terminata nel 1439"
+        link: "https://www.visitstrasbourg.fr/it/fiche-sit/F223007269_la-cattedrale-notre-dame-strasbourg-it/"
+        mappa: "" 
+      
+      - time: "11:00"
+        title: "Place Gutenburg"
+        description: "Un'incantevole piazza nel cuore di Strasburgo, in Francia, è una meta imperdibile per gli appassionati di storia, per gli amanti dei libri e per chiunque cerchi un assaggio dell'autentica cultura alsaziana. Chiamata così in onore di Johannes Gutenberg, l'inventore della macchina da stampa, questa piazza offre una deliziosa miscela di significato storico, bellezza architettonica e atmosfera vibrante."
+        link: "https://worldcitytrail.com/it/2024/10/23/luogo-gutenberg-a-strasburgo/"
+        mappa: "https://maps.app.goo.gl/5KJWHZsHMDbgzXFr7" 
+
+      - time: "12:30"
+        title: "Pranzo"
+        description: "Pranzo TBD"
+        link: 
+        mappa: "" 
+
     afternoon:
+      - time: "14:00"
+        title: "Petite France"
+        description: "Petite France è il quartiere più pittoresco e più romantico di Strasburgo. Tra i canali e le case a graticcio, si ha l’impressione di muoversi in un paesaggio da cartolina."
+        link: "https://www.visitstrasbourg.fr/it/scoprire/strasburgo-e-dintorni/petite-france/"
+        mappa: "https://maps.app.goo.gl/9PG4RHxcjNWi5ghp7" 
+        suggerimenti: "La Petite France è splendida illuminata al tramonto"
+
+      - time: "16:00"
+        title: "Battello"
+        description: "Giro in battello (facoltativo)"
+        link: "https://www.batorama.com/it"
+        mappa: "" 
+        suggerimento: "I giri che si possono fare sono diversi, se intenzionati scegliere il percorso e prenotare online. Ad esempio il percorso 'Rosso' prevede la partenza dal centro città al Parlamento europeo, passando per il quartiere imperiale di Neustadt durata 1 ora e 10 minuti, al costo di 16,20 €"
+
+      - time: "18:00"
+        title: "Parchggio"
+        description: "Ritorno verso il parcheggio"
+        link: ""
+        mappa: "https://maps.app.goo.gl/GLcnoud4CbpWnqRu9"
+
+      - time: "18:30"
+        title: "Rientro a Colmar"
+        description: "Rientro a casa"
+        link: ""
+        mappa: "https://maps.app.goo.gl/rxFaUW12szCqgQkz9"      
+    
     evening:
+      - time: "20:00"
+        title: "Cena"
+        description: "Cena a Colmar TBD"
+        link: 
+        mappa: "" 
   
   - id: 6
     name: "Giorno 6"
@@ -288,7 +356,7 @@ days:
     evening:
   
   - id: 8
-    name: "Giorno 8"
+    name: "Giorno 8 - Partenza per Icogne"
     date: "Sabato 22 Agosto"
     morning:
     afternoon:
