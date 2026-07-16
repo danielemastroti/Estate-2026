@@ -356,7 +356,7 @@ days:
     evening:
   
   - id: 8
-    name: "Giorno 8 - Partenza per Icogne"
+    name: "Giorno 8 - Partenza"
     date: "Sabato 22 Agosto"
     morning:
     afternoon:
@@ -387,6 +387,7 @@ days:
     name: "Giorno 12"
     date: "Mercoledì 26 Agosto"
     morning:
+    
     afternoon:
     evening:
 
