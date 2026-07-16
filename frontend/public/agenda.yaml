@@ -56,19 +56,19 @@ days:
         title: "Partenza per Friburgo"
         description: "Puntare al parcheggio P&R Bissierstraße 7,79114 Freiburg im Breisgau o in alternativa Park & Ride Munzinger Straße,\
          Munzinger Str. 1b - arrivare non oltre le 9.30 "
-        link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Park+and+Ride,+Bissierstra%C3%9Fe+7,+79114+Freiburg+im+Breisgau-West,+Germania/@47.923673,7.2600389,55565m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x47911b6d6515b9bf:0x8ecd69021b49612a!2m2!1d7.8193169!2d48.0017464?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        link: "https://maps.app.goo.gl/ScvPZSNm6xG564Dz5"
         suggerimenti: "Se non hai il bollino ambientale, parcheggia nei Park&Ride"
 
       - time: "08:30"
         title: "Arrivo parcheggio Friburgo"
         description: "Arrivo a parcheggio P&R Bissierstraße, 7 - Acquistare il biglietto P+R con titolo di viaggio giornaliero dal distributore del parcheggio"
-        link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Park+and+Ride,+Bissierstra%C3%9Fe+7,+79114+Freiburg+im+Breisgau-West,+Germania/@47.923673,7.2600389,55565m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x47911b6d6515b9bf:0x8ecd69021b49612a!2m2!1d7.8193169!2d48.0017464?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        link: "https://maps.app.goo.gl/ScvPZSNm6xG564Dz5"
         suggerimenti: ""
 
       - time: "09:00"
         title: "Partenza per centro storico di Friburgo"
         description: "Prendere tram linea 3 (Stadtbahn 3) in direzione Vauban, scendere a Bertoldsbrunnen"
-        link: "https://www.google.com/maps/dir/Park+and+Ride,+Bissierstra%C3%9Fe+7,+79114+Freiburg+im+Breisgau-West,+Germania/Bertoldsbrunnen,+Kaiser-Joseph-Stra%C3%9Fe+205,+79098+Freiburg+im+Breisgau,+Germania/@47.9991791,7.8141213,3468m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47911b6d6515b9bf:0x8ecd69021b49612a!2m2!1d7.8193169!2d48.0017464!1m5!1m1!1s0x47911c9eca80a3af:0xd87ea1c64b9ff12d!2m2!1d7.8498649!2d47.9948927!3e3?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        link: "https://maps.app.goo.gl/MR1vksVk3Y8TbnXp9"
       
       - time: "09:20"
         title: "Münsterplatz"
@@ -122,7 +122,7 @@ days:
       - time: "22:00"
         title: "Rientro"
         description: "Rientro a Colmar"
-        link: "https://www.google.com/maps/dir/Kastaniengarten,+Schlossbergring+3,+79098+Freiburg+im+Breisgau-S%C3%BCd,+Germania/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/@48.0117553,7.2790686,55470m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47911c9829cc975d:0xb879f13ea1bb3fba!2m2!1d7.8555961!2d47.9926791!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        link: "https://maps.app.goo.gl/GVyArfVvhS1tw52E8"
       
 
   - id: 3
@@ -187,7 +187,7 @@ days:
       - time: "08:00"
         title: "Partenza da Colmar per foresta nera."
         description: "Il lago Titisee è una destinazione nota per i suoi paesaggi mozzafiato e le impressionanti meraviglie naturali. La città si trova nel cuore della Foresta Nera, nella Germania meridionale"
-        link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Titisee+Lake,+Seestra%C3%9Fe,+79822+Titisee-Neustadt,+Germania/@47.923673,7.4258605,55565m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x4790f0e52eb5a9eb:0x98bbbbbabbd196de!2m2!1d8.1526957!2d47.8994382!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        link: "https://maps.app.goo.gl/GV1M5TbBpjKFGsiFA"
         suggerimenti: 
           - "Questo è il giorno con più strada: parti presto."
           - "Parcheggiare al parcheggio Neustädter Straße vicino al centro e al lago"
@@ -207,7 +207,7 @@ days:
       - time: "14:00"
         title: "Partenza per Triberg"
         description: "Viaggio verso il paese degli orologi a cucu"
-        link: "https://www.google.com/maps/dir/Titisee+Lake,+Seestra%C3%9Fe,+79822+Titisee-Neustadt,+Germania/Triberg+im+Schwarzwald,+78098,+Germania/@48.0323952,7.9737181,47366m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x4790f0e52eb5a9eb:0x98bbbbbabbd196de!2m2!1d8.1526957!2d47.8994382!1m5!1m1!1s0x4790c2354309fcab:0x41f6bb7a5df8960!2m2!1d8.2324351!2d48.1301564!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        link: "https://maps.app.goo.gl/xN5iEKf6ejwuEcoN7"
 
       - time: "14.50"
         title: "Triberg"
@@ -223,7 +223,7 @@ days:
       - time: "17:50"
         title: "Stonach"
         description: "Partenza per Stonach"
-        link: "https://www.google.com/maps/dir/Cascate+di+Triberg,+Wallfahrtstra%C3%9Fe+1,+78098+Triberg+im+Schwarzwald,+Germania/Schonach+im+Schwarzwald,+Germania/@48.1356793,8.1960465,3459m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x4790c2f5f1435c49:0xecc197b03ff8ef0!2m2!1d8.2301745!2d48.1283833!1m5!1m1!1s0x4790c2de660b944d:0x4847380f409db91a!2m2!1d8.2027572!2d48.1424407!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        link: "https://maps.app.goo.gl/1CE7ZPrAozVUk9LK9"
       
       - time: "18:00"
         title: "Arrivo a Stonach"
@@ -233,7 +233,7 @@ days:
       - time: "19:00"
         title: "Rientro"
         description: "Rientro a Colmar"
-        link: "https://www.google.com/maps/dir/Schonach+im+Schwarzwald,+Germania/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/@47.9937021,7.1273025,110979m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0x4790c2de660b944d:0x4847380f409db91a!2m2!1d8.2027572!2d48.1424407!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+        link: "https://maps.app.goo.gl/JST4PURL5v8Degew8"
       
       
     evening:
