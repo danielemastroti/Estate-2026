@@ -9,9 +9,9 @@ days:
         title: "Partenza"
         description: "Partenza per Colmar da Settimo Milanese (396Km)"
         link: "https://www.google.com/maps/dir/Settimo+Milanese,\
-        +20019+MI/March%C3%A9+Couvert+Colmar,\
-        +13+Rue+des+%C3%89coles,+68000+Colmar,\
-        +Francia/@46.7538922,5.5674877,454478m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x4786ea24fd7ea195:0xcbf916c5b8dd815f!2m2!1d9.0568149!2d45.486608!1m5!1m1!1s0x4791652d8dacb247:0x1e256b2d84278173!2m2!1d7.3595418!2d48.0745084!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
+         +20019+MI/March%C3%A9+Couvert+Colmar,\
+         +13+Rue+des+%C3%89coles,+68000+Colmar,\
+         +Francia/@46.7538922,5.5674877,454478m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x4786ea24fd7ea195:0xcbf916c5b8dd815f!2m2!1d9.0568149!2d45.486608!1m5!1m1!1s0x4791652d8dacb247:0x1e256b2d84278173!2m2!1d7.3595418!2d48.0745084!3e0?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
 
       - time: "12:30"
         title: "Arrivo e Pranzo a Marché Couvert"
@@ -58,7 +58,9 @@ days:
     morning:
       - time: "07:30"
         title: "Partenza per Friburgo"
-        description: "Puntare al parcheggio P&R Bissierstraße 7, 79114 Freiburg im Breisgau o in alternativa Park & Ride Munzinger Straße, Munzinger Str. 1b - arrivare non oltre le 9.30 "
+        description: "Puntare al parcheggio P&R Bissierstraße 7,\
+         79114 Freiburg im Breisgau o in alternativa Park & Ride Munzinger Straße,\
+         Munzinger Str. 1b - arrivare non oltre le 9.30"
         link: "https://www.google.com/maps/dir/9+Rte+de+B%C3%A2le,+68000+Colmar,+Francia/Park+and+Ride,+Bissierstra%C3%9Fe+7,+79114+Freiburg+im+Breisgau-West,+Germania/@47.923673,7.2600389,55565m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x479165ef1104e56f:0x617fcf36194b8307!2m2!1d7.3609703!2d48.0717648!1m5!1m1!1s0x47911b6d6515b9bf:0x8ecd69021b49612a!2m2!1d7.8193169!2d48.0017464?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D"
         suggerimenti: "Se non hai il bollino ambientale, parcheggia nei Park&Ride"
 
