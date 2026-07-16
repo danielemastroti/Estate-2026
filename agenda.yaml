@@ -139,23 +139,27 @@ days:
         title: "Strade colorate di Riquewihr"
         description: "Riquewihr (14 Km - 29 min) - Il borgo ha ispirato 'La Bella e la bestia'"
         link: "https://infodiviaggio.it/riquewihr-cosa-vedere-francia-alsazia/"
+        mappa: "https://maps.app.goo.gl/yVJYPPj1hsDrKEia8"
         suggerimenti: "Arriva presto per evitare la folla e le fotografie migliori si scattano nelle prime ore del mattino."
 
       - time: "10:30"
         title: "La Fortezza a Enguisheim"
         description: "Enguisheim (16 Km - 23 min) - Pianta circolare fortificata"
         link: "https://infodiviaggio.it/eguisheim-cosa-vedere-francia-alsazia/"
+        mappa: "https://maps.app.goo.gl/6mTEKAN4FNTNLT478"
       
       - time: "12:30"
         title: "Kaysersberg"
         description: "Arrivo e pranzo a Kaysersberg (12 Km - 18 min)"
         link: "https://infodiviaggio.it/kaysersberg-cosa-vedere-francia-alsazia/"
+        mappa: "https://maps.app.goo.gl/G8x4kLFdyZCaTZpu6"
 
     afternoon:
       - time: "14:00"
         title: "Castello"
         description: "Castello di Kaysersberg e panorama sui vigneti"
         link: "https://www.france-voyage.com/francia-citta/kaysersberg-vignoble-27053/castello-kaysersberg-12598.htm"
+        mappa: "https://maps.app.goo.gl/MM3JSB5jUG1Mv1kE9"
       
       - time: "16:00"
         title: "Degustazione vini (facoltativo)"
@@ -167,6 +171,7 @@ days:
         title: "Petite Venice"
         description: "Visita quartiere Petite Venice e giro in barca (facoltativo)"
         link: "https://www.tripadvisor.it/Attraction_Review-g187073-d523501-Reviews-Little_Venice-Colmar_Haut_Rhin_Grand_Est.html"
+        mappa: "https://maps.app.goo.gl/sZXdUC7vRLpxwZCD6"
         suggerimenti: 
           - "Arriva a Petite Venise dopo le 18:00: la luce è perfetta e c'è molta meno gente."
           - "Se piove visita il Museo Unterlinden."
@@ -175,6 +180,7 @@ days:
         title: "Giro in barca spostare"
         description: "Giro in barca (facoltativo) - Meglio prenotare"
         link: "https://sweet-narcisse.fr/it"
+        mappa: "https://maps.app.goo.gl/bFnfENF3moAaL1W96"
 
       - time: "20:00"
         title: "Cena"
