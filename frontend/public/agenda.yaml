@@ -8,7 +8,8 @@ days:
       - time: "07:30"
         title: "Partenza"
         description: "Partenza per Colmar da Settimo Milanese (396Km), puntare a Marchè Couvert per pranzo"
-        link: "https://maps.app.goo.gl/69yswAUNoTP3gYJM7"
+        mappa: "https://maps.app.goo.gl/69yswAUNoTP3gYJM7"
+        
       - time: "12:30"
         title: "Arrivo e Pranzo a Marché Couvert"
         description: "Arrivo a Colmar e Pranzo"
@@ -29,7 +30,8 @@ days:
       - time: "16:30"
         title: "Check-in"
         description: "Check-in presso appartamento Subtil insolite, 9 Route de Bâle"
-        link: "https://maps.app.goo.gl/rxFaUW12szCqgQkz9"
+        link: ""
+        mappa: "https://maps.app.goo.gl/rxFaUW12szCqgQkz9"
         suggerimenti: "La tassa di soggiorno e il parcheggio vanno saldati in loco"
       
       - time: "17:00"
@@ -56,19 +58,22 @@ days:
         title: "Partenza per Friburgo"
         description: "Puntare al parcheggio P&R Bissierstraße 7,79114 Freiburg im Breisgau o in alternativa Park & Ride Munzinger Straße,\
          Munzinger Str. 1b - arrivare non oltre le 9.30 "
-        link: "https://maps.app.goo.gl/6yNit2gz5nLuLdqP6"
+        link: ""
+        mappa: "https://maps.app.goo.gl/6yNit2gz5nLuLdqP6"
         suggerimenti: "Se non hai il bollino ambientale, parcheggia nei Park&Ride"
 
       - time: "08:30"
         title: "Arrivo parcheggio Friburgo"
         description: "Arrivo a parcheggio P&R Bissierstraße, 7 - Acquistare il biglietto P+R con titolo di viaggio giornaliero dal distributore del parcheggio"
-        link: "https://maps.app.goo.gl/6yNit2gz5nLuLdqP6"
+        link: ""
+        mappa: "https://maps.app.goo.gl/6yNit2gz5nLuLdqP6"
         suggerimenti: ""
 
       - time: "09:00"
         title: "Partenza per centro storico di Friburgo"
         description: "Prendere tram linea 3 (Stadtbahn 3) in direzione Vauban, scendere a Bertoldsbrunnen"
-        link: "https://maps.app.goo.gl/MR1vksVk3Y8TbnXp9"
+        link: ""
+        mappa: "https://maps.app.goo.gl/MR1vksVk3Y8TbnXp9"
       
       - time: "09:20"
         title: "Münsterplatz"
@@ -122,7 +127,8 @@ days:
       - time: "22:00"
         title: "Rientro"
         description: "Rientro a Colmar"
-        link: "https://maps.app.goo.gl/GVyArfVvhS1tw52E8"
+        link: ""
+        mappa: "https://maps.app.goo.gl/efTqpoS2E9dD9Frd8" 
       
 
   - id: 3
@@ -187,7 +193,8 @@ days:
       - time: "08:00"
         title: "Partenza da Colmar per foresta nera."
         description: "Il lago Titisee è una destinazione nota per i suoi paesaggi mozzafiato e le impressionanti meraviglie naturali. La città si trova nel cuore della Foresta Nera, nella Germania meridionale"
-        link: "https://maps.app.goo.gl/fYDXahvcS1NnxzZ5A"
+        link: ""
+        mappa: "https://maps.app.goo.gl/fYDXahvcS1NnxzZ5A"
         suggerimenti: 
           - "Questo è il giorno con più strada: parti presto."
           - "Parcheggiare al parcheggio Neustädter Straße vicino al centro e al lago"
@@ -207,7 +214,8 @@ days:
       - time: "14:00"
         title: "Partenza per Triberg"
         description: "Viaggio verso il paese degli orologi a cucu"
-        link: "https://maps.app.goo.gl/AFQkZVegDGgHKPQT8"
+        link: ""
+        mappa: "https://maps.app.goo.gl/AFQkZVegDGgHKPQT8" 
 
       - time: "14.50"
         title: "Triberg"
@@ -223,7 +231,8 @@ days:
       - time: "17:50"
         title: "Stonach"
         description: "Partenza per Stonach"
-        link: "https://maps.app.goo.gl/HpwKv6bZZmGJWznC7"
+        link: ""
+        mappa: "https://maps.app.goo.gl/HpwKv6bZZmGJWznC7" 
       
       - time: "18:00"
         title: "Arrivo a Stonach"
@@ -233,7 +242,8 @@ days:
       - time: "19:00"
         title: "Rientro"
         description: "Rientro a Colmar"
-        link: "https://maps.app.goo.gl/rxFaUW12szCqgQkz9"
+        link: 
+        mappa: "https://maps.app.goo.gl/rxFaUW12szCqgQkz9" 
       
       
     evening:

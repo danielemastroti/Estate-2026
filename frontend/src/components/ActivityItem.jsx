@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLink, Lightbulb } from 'lucide-react';
+import { ExternalLink, Lightbulb, MapPin } from 'lucide-react';
 
 export const ActivityItem = ({ activity, index, period }) => {
   const tips = activity.suggerimenti
@@ -63,17 +63,33 @@ export const ActivityItem = ({ activity, index, period }) => {
             </div>
           )}
 
-          {activity.link && (
-            <a
-              href={activity.link}
-              target="_blank"
-              rel="noopener noreferrer"
-              data-testid={`activity-link-${period}-${index}`}
-              className="inline-flex items-center gap-1 mt-2 text-sm font-sans font-medium text-slate-900 hover:text-slate-700 smooth-transition break-all"
-            >
-              <span>Vedi dettagli</span>
-              <ExternalLink size={14} className="flex-shrink-0" />
-            </a>
+          {(activity.link || activity.mappa) && (
+            <div className="flex flex-wrap items-center gap-x-4 gap-y-1 mt-2">
+              {activity.link && (
+                <a
+                  href={activity.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  data-testid={`activity-link-${period}-${index}`}
+                  className="inline-flex items-center gap-1 text-sm font-sans font-medium text-slate-900 hover:text-slate-700 smooth-transition break-all"
+                >
+                  <span>Vedi dettagli</span>
+                  <ExternalLink size={14} className="flex-shrink-0" />
+                </a>
+              )}
+              {activity.mappa && (
+                <a
+                  href={activity.mappa}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  data-testid={`activity-map-${period}-${index}`}
+                  className="inline-flex items-center gap-1 text-sm font-sans font-medium text-emerald-700 hover:text-emerald-900 smooth-transition break-all"
+                >
+                  <MapPin size={14} className="flex-shrink-0" />
+                  <span>Apri mappa</span>
+                </a>
+              )}
+            </div>
           )}
         </div>
       </div>
@@ -82,3 +98,5 @@ export const ActivityItem = ({ activity, index, period }) => {
 };
 
 export default ActivityItem;
+
+
