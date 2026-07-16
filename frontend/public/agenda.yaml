@@ -100,16 +100,19 @@ days:
         title: "Schlossberg"
         description: "Collina verdeggiante che si erge maestosamente sopra Friburgo"
         link: "https://www.mycityhunt.it/citta/friburgo-de-5227/poi/schlossberg-68934" 
+        mappa: "https://maps.app.goo.gl/etSzoM3RU7MNcLsR9"
       
       - time: "18:00"
         title: "Funicolare"
         description: "Prendere funicolare per scendere fino a Stadtgarten"
         link: "https://www.graztourismus.at/it/attrazioni-e-cultura/luoghi-di-interesse/funicolare-dello-schlossberg_shg_1482" 
+        mappa: "https://maps.app.goo.gl/pPKhKf8ARkE1tS3u7"
 
       - time: "18:15"
         title: "Centro storico"
         description: "Giro nel centro storico"
         link: "" 
+        mappa: "https://maps.app.goo.gl/YGyBYaPW44zsUABK7"
         suggerimenti: "Da provare: Schnitzel, Birra locale, Brezel appena sfornati"
 
       - time: "19:00"
@@ -123,6 +126,8 @@ days:
         title: "Cena"
         description: "Cena in un Biergarten ad esempio Kastaniengarten"
         link: "https://www.komoot.com/it-it/highlight/296788"
+        mappa: "https://maps.app.goo.gl/rkjs6d4PDo61mDHV8"
+
       
       - time: "22:00"
         title: "Rientro"
@@ -163,8 +168,9 @@ days:
       
       - time: "16:00"
         title: "Degustazione vini (facoltativo)"
-        description: "Degustazione vini (Gewurztraminer e Riesling) in cantina locale lungo il percorso"
-        link: ""
+        description: "Degustazione vini (Gewurztraminer e Riesling) in cantina locale lungo il percorso, (vedi ad esempio cantina nei dettagli)"
+        link: "https://www.freyburger.fr/"
+        mappa: "https://maps.app.goo.gl/Kg5PRZwjs3GX8TFr7"
         suggerimenti: "Acquista qualche bottiglia direttamente dai produttori: spesso i prezzi sono molto convenienti."
       
       - time: "18:00"
@@ -224,7 +230,7 @@ days:
         mappa: "https://maps.app.goo.gl/AFQkZVegDGgHKPQT8" 
 
       - time: "14.50"
-        title: "Triberg"
+        title: "Arrivo a Triberg"
         description: "A pochi passi dal paese si trovano sette cascate, tra le più alte della Germania; è nata qui la ricetta originale della torta oresta Nera, un goloso dolce di panna, pan di spagna al cioccolato e ciliegie, famoso in tutto il mondo"
         link: "https://infodiviaggio.it/triberg-germania-cosa-vedere-foresta-nera/"
              
@@ -243,7 +249,7 @@ days:
       
       - time: "18:00"
         title: "Arrivo a Stonach"
-        description: "Visita della cittadina e dell'orologio a cucu più grande del mondo"
+        description: "La cittadina di Schonach è conosciuta in tutto il mondo, soprattutto grazie al primo orologio a cucù più grande del mondo, entrato addirittura nel Guinness dei primati."
         link: "https://www.schwarzwaldportal.com/it/schonach.html"
       
       - time: "19:00"
