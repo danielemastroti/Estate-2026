@@ -219,19 +219,20 @@ days:
     afternoon:
       - time: "14:00"
         title: "Partenza per Triberg"
-        description: "Viaggio verso il paese degli orologi a cucu"
+        description: ""
         link: ""
         mappa: "https://maps.app.goo.gl/AFQkZVegDGgHKPQT8" 
 
       - time: "14.50"
         title: "Triberg"
-        description: "Triberg è il paese degli orologi a cucu"
+        description: "A pochi passi dal paese si trovano sette cascate, tra le più alte della Germania; è nata qui la ricetta originale della torta oresta Nera, un goloso dolce di panna, pan di spagna al cioccolato e ciliegie, famoso in tutto il mondo"
         link: "https://infodiviaggio.it/triberg-germania-cosa-vedere-foresta-nera/"
              
       - time: "15:50"
         title: "Cascate"
         description: "Cascate di Triberg"
         link: "https://www.schwarzwaldportal.com/it/ausflugsziel-triberger-wasserfaelle.html"
+        mappa: "https://maps.app.goo.gl/NtXSNCCGqa35EZyu8"
         suggerimenti: "Calcolare almeno 2 ore per le cascate"
       
       - time: "17:50"
@@ -330,7 +331,7 @@ days:
     evening:
 
   - id: 15
-    name: "Giorno 15"
+    name: "Giorno 15 - Ritorno"
     date: "Sabato 29 Agosto"
     morning:
     afternoon:
