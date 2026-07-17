@@ -1,9 +1,9 @@
 # Documenti e Informazioni
-title: "Documenti"
-description: "Lista completa dei documenti"
+title: "Documenti Necessari"
+description: "Lista completa dei documenti da portare"
 
 categories:
-  - name: "Appartenenti"
+  - name: "Documenti di Identità"
     items:
       - title: "Carta d'identità"
         required: true
