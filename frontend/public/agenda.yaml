@@ -340,98 +340,85 @@ days:
         description: "Cena a Colmar TBD"
         link: 
         mappa: "" 
-  
+
   - id: 6
-    name: "Giorno 6 - Eguisheim e Haut-Koenigsbourg"
+    name: "Giorno 6"
     date: "Giovedì 20 Agosto"
 
     morning:
-      - time: "08:30"
-        title: "Partenza per Eguisheim"
-        description: "Uno dei borghi più belli di Francia (10 minuti da Colmar)"
-        mappa: "https://maps.app.goo.gl/4BdT6wNZWt7Yy5Qc6"
+      - time: "08:15"
+        title: "Partenza da Colmar"
 
       - time: "09:00"
-        title: "Passeggiata nel centro storico"
-        description: "Rue du Rempart, Place du Château Saint-Léon e vicoli concentrici"
-
-      - time: "10:30"
-        title: "Degustazione vini"
-        description: "Piccola cantina locale"
+        title: "Castello di Haut-Koenigsbourg"
+        description: "Visita del castello medievale più famoso dell'Alsazia con panorami sulla Pianura del Reno."
 
       - time: "11:30"
-        title: "Partenza per Turckheim"
+        title: "Sosta panoramica lungo la Route des Vins"
 
     afternoon:
-      - time: "12:00"
-        title: "Pranzo a Turckheim"
+      - time: "12:30"
+        title: "Pranzo"
 
-      - time: "13:30"
-        title: "Passeggiata nel borgo"
-        description: "Porte medievali e centro storico"
+      - time: "14:00"
+        title: "Mont Sainte-Odile"
+        description: "Abbazia, terrazza panoramica e passeggiata fino al Muro Pagano."
 
-      - time: "15:00"
-        title: "Castello di Haut-Koenigsbourg"
-        description: "Il castello medievale più famoso dell'Alsazia"
+      - time: "16:30"
+        title: "Passeggiata nel centro storico di Obernai"
+        description: "Una delle città medievali meglio conservate dell'Alsazia."
 
-      - time: "17:30"
+      - time: "18:00"
         title: "Rientro a Colmar"
 
     evening:
       - time: "20:00"
-        title: "Cena"
-        description: "Cena nel centro storico di Colmar"
-
-      - time: "21:30"
-        title: "Passeggiata serale"
-        description: "Piccola Venezia illuminata"
+        title: "Cena nel centro storico di Colmar"
+  
   - id: 7
-    name: "Giorno 7 - Route des Crêtes e Lago Blanc"
+    name: "Giorno 7"
     date: "Venerdì 21 Agosto"
 
     morning:
       - time: "08:00"
         title: "Partenza da Colmar"
-        description: "Percorri la D417 verso i Monti Vosgi."
 
       - time: "09:00"
+        title: "Munster"
+
+      - time: "09:45"
         title: "Col de la Schlucht"
-        description: "Passo montano a 1.139 m con splendidi panorami e possibilità di una breve passeggiata."
 
-      - time: "10:00"
+      - time: "10:30"
         title: "Route des Crêtes"
-        description: "Percorri una delle strade panoramiche più belle della Francia, con numerosi punti panoramici."
 
-      - time: "11:00"
+      - time: "11:15"
         title: "Hohneck"
-        description: "Sosta al belvedere del terzo monte più alto dei Vosgi (1.363 m)."
+        description: "Belvedere a 1.363 metri."
 
     afternoon:
       - time: "12:30"
-        title: "Pranzo in rifugio di montagna"
-        description: "Assaggia le specialità alsaziane in una ferme-auberge."
+        title: "Pranzo in Ferme Auberge"
 
       - time: "14:00"
         title: "Lac Blanc"
-        description: "Passeggiata attorno al lago oppure salita al belvedere."
 
       - time: "15:30"
-        title: "Col du Calvaire"
-        description: "Ultimi panorami sulla valle alsaziana."
+        title: "Belvedere del Lac Blanc"
 
-      - time: "16:30"
-        title: "Rientro verso Colmar"
-        description: "Discesa attraversando Orbey e la valle di Kaysersberg."
+      - time: "16:15"
+        title: "Col du Calvaire"
+
+      - time: "17:00"
+        title: "Rientro passando da Orbey"
 
     evening:
       - time: "19:30"
-        title: "Cena di arrivederci a Colmar"
-        description: "Ultima cena nel centro storico."
+        title: "Ultima cena a Colmar"
 
       - time: "21:00"
         title: "Passeggiata nella Petite Venise"
-        description: "Goditi Colmar illuminata prima della partenza del giorno successivo."
-
+  
   - id: 8
     name: "Giorno 8 - Partenza"
     date: "Sabato 22 Agosto"
