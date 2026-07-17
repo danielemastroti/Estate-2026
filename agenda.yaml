@@ -342,19 +342,96 @@ days:
         mappa: "" 
   
   - id: 6
-    name: "Giorno 6"
+    name: "Giorno 6 - Eguisheim e Haut-Koenigsbourg"
     date: "Giovedì 20 Agosto"
+
     morning:
+      - time: "08:30"
+        title: "Partenza per Eguisheim"
+        description: "Uno dei borghi più belli di Francia (10 minuti da Colmar)"
+        mappa: "https://maps.app.goo.gl/4BdT6wNZWt7Yy5Qc6"
+
+      - time: "09:00"
+        title: "Passeggiata nel centro storico"
+        description: "Rue du Rempart, Place du Château Saint-Léon e vicoli concentrici"
+
+      - time: "10:30"
+        title: "Degustazione vini"
+        description: "Piccola cantina locale"
+
+      - time: "11:30"
+        title: "Partenza per Turckheim"
+
     afternoon:
+      - time: "12:00"
+        title: "Pranzo a Turckheim"
+
+      - time: "13:30"
+        title: "Passeggiata nel borgo"
+        description: "Porte medievali e centro storico"
+
+      - time: "15:00"
+        title: "Castello di Haut-Koenigsbourg"
+        description: "Il castello medievale più famoso dell'Alsazia"
+
+      - time: "17:30"
+        title: "Rientro a Colmar"
+
     evening:
-  
+      - time: "20:00"
+        title: "Cena"
+        description: "Cena nel centro storico di Colmar"
+
+      - time: "21:30"
+        title: "Passeggiata serale"
+        description: "Piccola Venezia illuminata"
   - id: 7
-    name: "Giorno 7"
+    name: "Giorno 7 - Route des Crêtes e Lago Blanc"
     date: "Venerdì 21 Agosto"
+
     morning:
+      - time: "08:00"
+        title: "Partenza da Colmar"
+        description: "Percorri la D417 verso i Monti Vosgi."
+
+      - time: "09:00"
+        title: "Col de la Schlucht"
+        description: "Passo montano a 1.139 m con splendidi panorami e possibilità di una breve passeggiata."
+
+      - time: "10:00"
+        title: "Route des Crêtes"
+        description: "Percorri una delle strade panoramiche più belle della Francia, con numerosi punti panoramici."
+
+      - time: "11:00"
+        title: "Hohneck"
+        description: "Sosta al belvedere del terzo monte più alto dei Vosgi (1.363 m)."
+
     afternoon:
+      - time: "12:30"
+        title: "Pranzo in rifugio di montagna"
+        description: "Assaggia le specialità alsaziane in una ferme-auberge."
+
+      - time: "14:00"
+        title: "Lac Blanc"
+        description: "Passeggiata attorno al lago oppure salita al belvedere."
+
+      - time: "15:30"
+        title: "Col du Calvaire"
+        description: "Ultimi panorami sulla valle alsaziana."
+
+      - time: "16:30"
+        title: "Rientro verso Colmar"
+        description: "Discesa attraversando Orbey e la valle di Kaysersberg."
+
     evening:
-  
+      - time: "19:30"
+        title: "Cena di arrivederci a Colmar"
+        description: "Ultima cena nel centro storico."
+
+      - time: "21:00"
+        title: "Passeggiata nella Petite Venise"
+        description: "Goditi Colmar illuminata prima della partenza del giorno successivo."
+
   - id: 8
     name: "Giorno 8 - Partenza"
     date: "Sabato 22 Agosto"
