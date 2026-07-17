@@ -8,30 +8,147 @@ routes:
     distance: "399 km"
     duration: "5 ore"
     notes: "Traffico moderato al mattino"
-    
+  
   - from: "Colmar"
-    to: "Rinquewir"
-    distance: "14 Km"
-    duration: "29 minuti"
+    to: "P&R Bissierstraße 7 - Friburgo (DE)"
+    distance: "49 Km"
+    duration: "50 min"
     notes: ""
-    
+
+  - from: "Colmar"
+    to: "Riquewihr"
+    distance: "18 Km"
+    duration: "22 min"
+    notes: ""
+  
+  
   - from: "Rinquewir"
     to: "Enguisheim"
     distance: "16 km"
     duration: "23 minuti"
     notes: ""
-    
+  
   - from: "Enguisheim"
     to: "Kaysersberg"
-    distance: "12 km"
-    duration: "18 minuti"
+    distance: "14 Km"
+    duration: "20 minuti"
     notes: ""
-    
+
+  - from: "Kaysersberg"
+    to: "Marcel Freyburger"
+    distance: "4 Km"
+    duration: "5 minuti"
+    notes: "Degustazione vini (facoltativo)"
+
+  - from: "Kaysersberg"
+    to: "Colmar"
+    distance: "16 Km"
+    duration: "24 minuti"
+    notes: ""
+
+  - from: "Colmar"
+    to: "Lago Titisee"
+    distance: "83 Km"
+    duration: "1 ora e 31 minuti"
+    notes: "Parcheggiare al parcheggio Neustädter Straße"
+
+  - from: "Lago Titisee"
+    to: "Triberg"
+    distance: "40 Km"
+    duration: "39 minuti"
+    notes: "Cascate di Triberg"
+  
+  - from: "Triberg"
+    to: "Schonach"
+    distance: "3,3 Km"
+    duration: "6 minuti"
+    notes: ""
+  
+  - from: "Schonach"
+    to: "Colmar"
+    distance: "104 Km"
+    duration: "1 ora e 40 minuti"
+    notes: ""
+
   - from: "Colmar"
     to: "Strasburgo"
-    distance: "73 km"
+    distance: "75,8 km"
     duration: "1 ora"
     notes: ""
+
+  - from: "Colmar"
+    to: "Castello di Haut-Koenigsbourg"
+    distance: "36 km"
+    duration: "32 minuti"
+    notes: ""
+
+  - from: "Castello di Haut-Koenigsbourg"
+    to: "Mont Sainte-Odile"
+    distance: "42 Km"
+    duration: "48 minuti"
+    notes: ""
+  
+  - from: "Mont Sainte-Odile"
+    to: "Colmar"
+    distance: "56 Km"
+    duration: "52 minuti"
+    notes: ""
+  
+  - from: "Colmar"
+    to: "Munster"
+    distance: "20 Km"
+    duration: "26 minuti"
+    notes: ""
+  
+  - from: "Munster"
+    to: "Col de la Schlucht"
+    distance: "31 Km"
+    duration: "40 minuti"
+    notes: ""
+
+  - from: "Col de la Schlucht"
+    to:  "Hohneck"
+    distance: "29 Km"
+    duration: "34 minuti"
+    notes: ""
+
+  - from: "Hohneck"
+    to:  "Ferme Auberge"
+    distance: "28 Km"
+    duration: "40 minuti"
+    notes: "Pranzo"
+
+  - from: "Ferme Auberge"
+    to:  "Lac Blanc"
+    distance: "26 Km"
+    duration: "39 minuti"
+    notes: ""
+  
+  - from: "Lac Blanc"
+    to:  "Col du Calvaire"
+    distance: "1,2 Km"
+    duration: "1 minuti"
+    notes: ""
+  
+  - from: "Col du Calvaire"
+    to:  "Orbey"
+    distance: "21,5 Km"
+    duration: "25 minuti"
+    notes: ""
+
+  - from: "Orbey"
+    to:  "Colmar"
+    distance: "25 Km"
+    duration: "38 minuti"
+    notes: ""
+
+  - from: "Colmar"
+    to:  "Icogne"
+    distance: "327 Km"
+    duration: "4 ore e 10 minuti"
+    notes: "Dalla Francia alla Svizzera"
+
+
 
 tips:
   - "Considera 30 minuti extra per il traffico nelle ore di punta"

@@ -1,5 +1,6 @@
 # Agenda - 20 Giorni
-# Casa Colmar 9, route Bale, 68000 Colmar 
+# Casa Colmar: 9, route Bale, 68000 Colmar 
+# Casa Icogne: Rte du Cachiblio 38, 1977 Icogne, Svizzera
 days:
   - id: 1
     name: "Giorno 1 - Partenza!"
@@ -168,7 +169,7 @@ days:
       
       - time: "16:00"
         title: "Degustazione vini (facoltativo)"
-        description: "Degustazione vini (Gewurztraminer e Riesling) in cantina locale lungo il percorso, (vedi ad esempio cantina nei dettagli)"
+        description: "Marcel Freyburger - Degustazione vini (Gewurztraminer e Riesling) in cantina locale lungo il percorso, (vedi ad esempio cantina nei dettagli)"
         link: "https://www.freyburger.fr/"
         mappa: "https://maps.app.goo.gl/Kg5PRZwjs3GX8TFr7"
         suggerimenti: "Acquista qualche bottiglia direttamente dai produttori: spesso i prezzi sono molto convenienti."
