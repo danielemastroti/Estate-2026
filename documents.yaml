@@ -4,36 +4,47 @@ description: "Tutte le prenotazioni e i documenti del viaggio"
 bookings:
   - name: "Prenotazione appartamenti"
     items:
-      - title: "Appartamento centro storico - Roma"
-        date: "15-17 Gennaio 2026"
-        description: "Trilocale con vista, check-in ore 15:00"
-        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
-      - title: "Villa panoramica - Costiera"
-        date: "18-21 Gennaio 2026"
-        description: "Villa con 3 camere e piscina privata"
-        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
+      - title: "Appartamento Colmar (fr)"
+        date: "15-22 Agosto 2026"
+        description: ", check-in ore xx"
+        link: ""
+      
+      - title: "Villa panoramica - Icogne (ch)"
+        date: "22-29 Agosto 2026"
+        description: ", check-in ore xx"
+        link: ""
 
   - name: "Prenotazione attrazioni"
     items:
-      - title: "Museo Nazionale - Tour guidato"
-        date: "15 Gennaio 2026, ore 10:00"
-        description: "Ingresso prioritario + guida in italiano"
-        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
-      - title: "Escursione in barca"
-        date: "20 Gennaio 2026, ore 09:30"
-        description: "Tour giornaliero isole + pranzo a bordo"
-        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
+      - title: "Parcheggio Parkhaus Zermatt"
+        date: "26 Agosto 2026, ore xx:xx"
+        description: ""
+        link: ""
+
+      - title: "Navetta da Parkhaus a Zermatt"
+        date: "xx Agosto 2026, ore xx:xx"
+        description: ""
+        link: ""
+
+      - title: "Trenino Zermatt Gornergrat (A/R)"
+        date: "xx Agosto 2026, ore xx:xx"
+        description: ""
+        link: ""
+      
+      
+      - title: "Priorità trenino Zermatt Gornergrat (A/R)"
+        date: "xx Agosto 2026, ore xx:xx"
+        description: ""
+        link: ""
+      
 
   - name: "Prenotazione ristoranti"
     items:
-      - title: "Ristorante La Piazzetta"
-        date: "15 Gennaio 2026, ore 13:00"
-        description: "Prenotazione per 4 persone - menu degustazione"
-        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
-      - title: "Trattoria del Mare"
-        date: "19 Gennaio 2026, ore 20:30"
-        description: "Cena sul lungomare - tavolo panoramico"
-        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
+      - title: "Ristorante xx"
+        date: "xx Agosto 2026"
+        description: ""
+        link: ""
+
 
 important_numbers:
   - service: "Emergenza"
@@ -43,6 +54,6 @@ important_numbers:
   # ... aggiungi/rimuovi come vuoi
 
 contacts:
-  - name: "Hotel Centro Città"
+  - name: "xxxx"
     phone: "+39 02 1234 5678"
-    email: "info@hotelcentro.it"
+    email: "xxx@xxx.it"
