@@ -352,6 +352,8 @@ days:
       - time: "09:00"
         title: "Castello di Haut-Koenigsbourg"
         description: "Visita del castello medievale più famoso dell'Alsazia con panorami sulla Pianura del Reno."
+        link: "https://www.haut-koenigsbourg.fr/en"
+        mappa: "https://maps.app.goo.gl/66ekHUUj6ziy9uWM7"
 
       - time: "11:30"
         title: "Sosta panoramica lungo la Route des Vins"
@@ -363,10 +365,14 @@ days:
       - time: "14:00"
         title: "Mont Sainte-Odile"
         description: "Abbazia, terrazza panoramica e passeggiata fino al Muro Pagano."
+        link: "https://www.france-voyage.com/francia-guida-turismo/monte-sainte-odile-83.htm"
+        mappa: "https://maps.app.goo.gl/maWF7QDEgzNgSpn29"
 
       - time: "16:30"
         title: "Passeggiata nel centro storico di Obernai"
         description: "Una delle città medievali meglio conservate dell'Alsazia."
+        link: "https://www.tourisme-obernai.fr/IT.html"
+        mappa: "https://maps.app.goo.gl/erwgvtDrPjHT1ECeA"
 
       - time: "18:00"
         title: "Rientro a Colmar"
