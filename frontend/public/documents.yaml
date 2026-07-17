@@ -1,80 +1,48 @@
-# Documenti e Informazioni
 title: "Documenti"
-description: "Lista completa dei documenti"
+description: "Tutte le prenotazioni e i documenti del viaggio"
 
-categories:
-  - name: "Appartenenti"
+bookings:
+  - name: "Prenotazione appartamenti"
     items:
-      - title: "Carta d'identità"
-        required: true
-        notes: "Valida, non scaduta"
-      - title: "Passaporto"
-        required: false
-        notes: "Solo per viaggi internazionali"
-      - title: "Patente di guida"
-        required: true
-        notes: "Necessaria per noleggio auto"
-        
-  - name: "Documenti di Viaggio"
+      - title: "Appartamento centro storico - Roma"
+        date: "15-17 Gennaio 2026"
+        description: "Trilocale con vista, check-in ore 15:00"
+        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
+      - title: "Villa panoramica - Costiera"
+        date: "18-21 Gennaio 2026"
+        description: "Villa con 3 camere e piscina privata"
+        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
+
+  - name: "Prenotazione attrazioni"
     items:
-      - title: "Biglietti aerei"
-        required: true
-        notes: "Stampa e copia digitale"
-      - title: "Voucher hotel"
-        required: true
-        notes: "Tutte le prenotazioni"
-      - title: "Assicurazione viaggio"
-        required: true
-        notes: "Polizza numero AV-2024-12345"
-      - title: "Noleggio auto"
-        required: true
-        notes: "Conferma prenotazione"
-        
-  - name: "Documenti Sanitari"
+      - title: "Museo Nazionale - Tour guidato"
+        date: "15 Gennaio 2026, ore 10:00"
+        description: "Ingresso prioritario + guida in italiano"
+        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
+      - title: "Escursione in barca"
+        date: "20 Gennaio 2026, ore 09:30"
+        description: "Tour giornaliero isole + pranzo a bordo"
+        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
+
+  - name: "Prenotazione ristoranti"
     items:
-      - title: "Tessera sanitaria"
-        required: true
-        notes: "Per assistenza medica"
-      - title: "Prescrizioni mediche"
-        required: false
-        notes: "Se si assumono farmaci"
-      - title: "Certificato vaccinazioni"
-        required: false
-        notes: "Se richiesto"
-        
-  - name: "Documenti Finanziari"
-    items:
-      - title: "Carte di credito"
-        required: true
-        notes: "Almeno 2 diverse"
-      - title: "Contanti"
-        required: true
-        notes: "€500 consigliati"
-      - title: "PIN carte"
-        required: true
-        notes: "Annotare in luogo sicuro"
+      - title: "Ristorante La Piazzetta"
+        date: "15 Gennaio 2026, ore 13:00"
+        description: "Prenotazione per 4 persone - menu degustazione"
+        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
+      - title: "Trattoria del Mare"
+        date: "19 Gennaio 2026, ore 20:30"
+        description: "Cena sul lungomare - tavolo panoramico"
+        link: "https://drive.google.com/file/d/TUO_ID_FILE/view"
 
 important_numbers:
   - service: "Emergenza"
     number: "112"
-  - service: "Assistenza sanitaria"
-    number: "118"
   - service: "Polizia"
     number: "113"
-  - service: "Vigili del Fuoco"
-    number: "115"
-  - service: "Assistenza stradale"
-    number: "803 116"
-  - service: "Blocco carte di credito"
-    number: "800 822 056"
+  # ... aggiungi/rimuovi come vuoi
 
 contacts:
   - name: "Hotel Centro Città"
     phone: "+39 02 1234 5678"
     email: "info@hotelcentro.it"
-  - name: "Agenzia Viaggi"
-    phone: "+39 06 9876 5432"
-    email: "booking@agenzia.it"
-  - name: "Guida Turistica"
-    phone: "+39 333 123 4567"
-    email: "guida@turismo.it"
