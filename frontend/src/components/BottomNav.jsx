@@ -11,8 +11,8 @@ export const BottomNav = () => {
 
   return (
     <nav 
-      className="no-print fixed bottom-0 left-0 right-0 bg-white border-t border-black/5 z-50"
-      style={{ backdropFilter: 'blur(24px)', WebkitBackdropFilter: 'blur(24px)', backgroundColor: 'rgba(255, 255, 255, 0.9)' }}
+      className="no-print fixed bottom-0 left-0 right-0 border-t border-black/5 z-50"
+      style={{ backdropFilter: 'blur(24px)', WebkitBackdropFilter: 'blur(24px)', backgroundColor: 'rgba(248, 244, 231, 0.92)' }}
     >
       <div className="flex justify-around items-center h-16 max-w-2xl mx-auto px-4">
         {navItems.map(({ path, icon: Icon, label, testId }) => (
