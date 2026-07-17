@@ -538,21 +538,21 @@ days:
     name: "Giorno 15 - Ritorno"
     date: "Sabato 29 Agosto"
     morning:
-    afternoon:
-  
-  - time: "14:00"
-    title: "Rientro Berry"
-    descrition: "Rientro a Settimo Milanese"
-    link: 
-    mappa: "https://maps.app.goo.gl/TaLaSEn6HfQQczru9"
-    evening:
 
-  - time: "14:01"
-    title: "Rientro Tasc"
-    descrition: "Rientro a Craveggia"
-    link: 
-    mappa: "https://maps.app.goo.gl/akGWExNdfpsAR6iP8"
-    evening:
+    afternoon:
+    - time: "14:00"
+      title: "Rientro Berry"
+      descrition: "Rientro a Settimo Milanese"
+      link: 
+      mappa: "https://maps.app.goo.gl/TaLaSEn6HfQQczru9"
+    
+    - time: "14:01"
+      title: "Rientro Tasc"
+      descrition: "Rientro a Craveggia"
+      link: 
+      mappa: "https://maps.app.goo.gl/akGWExNdfpsAR6iP8"
+      
+      evening:
 
 
 
