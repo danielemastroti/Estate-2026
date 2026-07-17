@@ -6,12 +6,12 @@ bookings:
     items:
       - title: "Appartamento Colmar (fr)"
         date: "15-22 Agosto 2026"
-        description: ", check-in ore xx"
+        description: "Subtil Insolite, check-in ore 16:30"
         link: ""
       
       - title: "Villa panoramica - Icogne (ch)"
         date: "22-29 Agosto 2026"
-        description: ", check-in ore xx"
+        description: "Villa moderna con Jaccuzzi, check-in ore 17:00"
         link: ""
 
   - name: "Prenotazione attrazioni"
