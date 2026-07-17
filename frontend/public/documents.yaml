@@ -47,10 +47,25 @@ bookings:
 
 
 important_numbers:
-  - service: "Emergenza"
+  - service: "Emergenza Europea"
     number: "112"
-  - service: "Polizia"
-    number: "113"
+
+  - service: "Polizia Francia"
+    number: "17"
+  - service: "Vigili del fuoco Francia"
+    number: "18"
+  
+  - service: "Polizia Germania"
+    number: "110"
+  - service: "Vigii del fuoco Germania"
+    number: "112"
+
+  - service: "Polizia Svizzera"
+    number: "117"
+  - service: "Vigili del fuoco Svizzera"
+    number: "118"
+
+
   # ... aggiungi/rimuovi come vuoi
 
 contacts:
