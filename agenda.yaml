@@ -357,6 +357,7 @@ days:
 
       - time: "11:30"
         title: "Sosta panoramica lungo la Route des Vins"
+        link: "https://www.franciaturismo.net/alsazia/strada-dei-vini/"
 
     afternoon:
       - time: "12:30"
@@ -376,6 +377,7 @@ days:
 
       - time: "18:00"
         title: "Rientro a Colmar"
+        mappa: "https://maps.app.goo.gl/efTqpoS2E9dD9Frd8"
 
     evening:
       - time: "20:00"
@@ -391,32 +393,42 @@ days:
 
       - time: "09:00"
         title: "Munster"
+        descrition: "Valle Munster - o Val San Gregorio - si compone di sedici comuni Munster che è il capoluogo del Cantone. I suoi paesaggi, unendo tradizione e modernità, offrendo ai visitatori una vasta gamma di colori che variano con le stagioni."
+        link: "https://www.france-voyage.com/francia-citta/munster-27116.htm"
 
       - time: "09:45"
         title: "Col de la Schlucht"
+        link: "https://it.wikipedia.org/wiki/Col_de_la_Schlucht"
 
       - time: "10:30"
         title: "Route des Crêtes"
+        link: "https://www.france-voyage.com/francia-guida-turismo/corniche-cretes-strada-paronamica-385.htm"
 
       - time: "11:15"
         title: "Hohneck"
         description: "Belvedere a 1.363 metri."
+        link: "https://www.france-voyage.com/francia-guida-turismo/hohneck-387.htm"
 
     afternoon:
       - time: "12:30"
         title: "Pranzo in Ferme Auberge"
+        link: "https://www.visit.alsace/en/231001268-ferme-auberge-du-christlesgut/"
 
       - time: "14:00"
         title: "Lac Blanc"
+        link: "https://www.france-voyage.com/francia-citta/orbey-27138/lago-blanc-32913.htm"
 
       - time: "15:30"
         title: "Belvedere del Lac Blanc"
 
       - time: "16:15"
         title: "Col du Calvaire"
+        link: "https://en.wikipedia.org/wiki/Col_du_Calvaire"
 
       - time: "17:00"
         title: "Rientro passando da Orbey"
+        link: "https://www.france-voyage.com/francia-citta/orbey-27138.htm"
+        mappa: "https://maps.app.goo.gl/93SEfzE7jYtbRCbY6"
 
     evening:
       - time: "19:30"
@@ -424,6 +436,8 @@ days:
 
       - time: "21:00"
         title: "Passeggiata nella Petite Venise"
+        mappa: "https://maps.app.goo.gl/sZXdUC7vRLpxwZCD6"
+
   
   - id: 8
     name: "Giorno 8 - Partenza"
