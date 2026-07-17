@@ -395,10 +395,13 @@ days:
         title: "Munster"
         descrition: "Valle Munster - o Val San Gregorio - si compone di sedici comuni Munster che è il capoluogo del Cantone. I suoi paesaggi, unendo tradizione e modernità, offrendo ai visitatori una vasta gamma di colori che variano con le stagioni."
         link: "https://www.france-voyage.com/francia-citta/munster-27116.htm"
+        mappa: "https://maps.app.goo.gl/18axMKyPCaDtpjho7"
 
       - time: "09:45"
         title: "Col de la Schlucht"
-        link: "https://it.wikipedia.org/wiki/Col_de_la_Schlucht"
+        descrition: "Il Col de la Schlucht (1139 m) è un famoso passo montano dei Vosgi, situato al confine tra Alsazia e Lorena. Raggiungibile da Munster o Gérardmer tramite la strada D417, è un rinomato snodo per escursionisti, ciclisti e amanti della natura, e offre l'accesso diretto alla spettacolare Route des Crêtes"
+        link: "https://www.france-voyage.com/francia-citta/le-valtin-35132/passo-schlucht-27951.htm"
+        mappa: "https://maps.app.goo.gl/C3pRRfQC2jtDqZVu6"
 
       - time: "10:30"
         title: "Route des Crêtes"
@@ -406,27 +409,35 @@ days:
 
       - time: "11:15"
         title: "Hohneck"
-        description: "Belvedere a 1.363 metri."
+        descrition: "Lo Hohneck (1.363 m s.l.m.) è la terza cima più alta dei Vosgi, situata nel cuore del massiccio e del Parco Naturale Regionale dei Ballons des Vosges. Offre una vista panoramica incredibile sull'Alsazia e la Lorena. Punto di riferimento per escursionisti, ciclisti e amanti della natura in estate, e vicino alle stazioni sciistiche in inverno"
         link: "https://www.france-voyage.com/francia-guida-turismo/hohneck-387.htm"
+        mappa: "https://maps.app.goo.gl/uW3yYRQMX8NPZujs7"
 
     afternoon:
       - time: "12:30"
         title: "Pranzo in Ferme Auberge"
+        descrition: "A 5 km da Breitenbach, tra le montagne del Petit Ballon, vi attende una vista meravigliosa sulle cime delle Crêtes. Verranno preparati piatti regionali e rurali con prodotti freschi di fattoria."
         link: "https://www.visit.alsace/en/231001268-ferme-auberge-du-christlesgut/"
+        mappa: "https://maps.app.goo.gl/K8fyrPNJYWBSPLhB8"
 
       - time: "14:00"
         title: "Lac Blanc"
+        descrition: "Il lago Bianco si trova nel comune di Orbey, nell'Alto Reno, al confine con il dipartimento dei Vosgi, a 30 km a nord-ovest di Colmar. A 1055 m di altitudine, occupa un antico circo glaciale del massiccio dei Vosgi e il suo nome deriva dalla sabbia cristallina che ne ricopre il fondo."
         link: "https://www.france-voyage.com/francia-citta/orbey-27138/lago-blanc-32913.htm"
+        mappa: "https://maps.app.goo.gl/6bfnzeFwF3FaH1jP9"
 
       - time: "15:30"
         title: "Belvedere del Lac Blanc"
 
       - time: "16:15"
         title: "Col du Calvaire"
+        descrition: "Il Col du Calvaire è un noto valico montano dei Vosgi (1.144 m s.l.m.) situato al confine tra Alsazia e Lorena. Famoso per la sua posizione panoramica sulla celebre Route des Crêtes, funge da spartiacque naturale e offre una vista spettacolare sui laghi glaciali sottostanti e sulla valle"
         link: "https://en.wikipedia.org/wiki/Col_du_Calvaire"
+        mappa: "https://maps.app.goo.gl/oWiHQ6XD4woA8PKu6"
 
       - time: "17:00"
         title: "Rientro passando da Orbey"
+        descrition: "Orbey è un caratteristico comune francese della regione del Grand Est (dipartimento dell'Alto Reno), situato nel cuore del massiccio dei Vosgi a circa 500-550 metri di altitudine, a circa 30 minuti d'auto a nord-ovest di Colmar. Immerso nei boschi, è rinomato per i suoi laghi d'alta quota e le sue bellezze naturali"
         link: "https://www.france-voyage.com/francia-citta/orbey-27138.htm"
         mappa: "https://maps.app.goo.gl/93SEfzE7jYtbRCbY6"
 
