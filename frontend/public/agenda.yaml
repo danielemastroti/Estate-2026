@@ -243,8 +243,8 @@ days:
         suggerimenti: "Calcolare almeno 2 ore per le cascate"
       
       - time: "17:50"
-        title: "Stonach"
-        description: "Partenza per Stonach"
+        title: "Schonach"
+        description: "Partenza per Schonach"
         link: ""
         mappa: "https://maps.app.goo.gl/HpwKv6bZZmGJWznC7" 
       
@@ -448,6 +448,7 @@ days:
 
       - time: "21:00"
         title: "Passeggiata nella Petite Venise"
+        description: "https://www.tripadvisor.it/Attraction_Review-g187073-d523501-Reviews-Little_Venice-Colmar_Haut_Rhin_Grand_Est.html"
         mappa: "https://maps.app.goo.gl/sZXdUC7vRLpxwZCD6"
 
   
@@ -456,6 +457,11 @@ days:
     date: "Sabato 22 Agosto"
     morning:
     afternoon:
+    - time: "17:00"
+      title: "Check-in Icogne"
+      descrition: "Check-in villa Icogne"
+      link: "https://www.airbnb.it/rooms/988004087171272983?unique_share_id=fa9f6a85-5b41-49fc-b400-f1b9e7cd08cb&viralityEntryPoint=1&s=76&source_impression_id=p3_1784290462_P3mgLkEZLmvevkNi"
+      mappa: "https://maps.app.goo.gl/UG9saLC32HLTGjUW6"
     evening:
   
   - id: 9
@@ -483,6 +489,33 @@ days:
     name: "Giorno 12"
     date: "Mercoledì 26 Agosto"
     morning:
+    - time: "xx:xx"
+      title: "Parkhaus Zermatt"
+      descrition: "Parcheggio per prendere navetta verso Zermatt"
+      link: "https://www.google.com/search?q=parcheggio+zermatt&rlz=1C1GCEB_enIT1205IT1205&oq=parcheggio+zermatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMxMzFqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8&safe=active&ssui=on#sv=CAwSNwoGbGNsX3B2EhkKA3B2cRISQ2dzdlp5OHhkSEY1WkdSclpnGhJsb2NhbC1wbGFjZS12aWV3ZXIYCiDN3IWcBQ"
+      mappa: "https://maps.app.goo.gl/SCJhj181Ypp2uAXa8"
+    
+    - time: "xx:xx"
+      title: "Navetta"
+      descrition: "Prendere navetta per Zermatt"
+    
+    - time: "xx:xx"
+      title: "Trenino"
+      descrition: "Da Zermatt prendere trenino per Gornergrat"
+
+    - time: "xx:xx"
+      title: "Trenino"
+      descrition: "Da Gornergrat tornare verso Zermatt...volendo con fermate intermedie"
+    
+    - time: "xx:xx"
+      title: "Navetta"
+      descrition: "Da Zermatt prendere navetta per parcheggio Parkhaus Zermatt"
+    
+    - time: "xx:xx"
+      title: "Rientro"
+      descrition: "Rientro a Icogne"
+      mappa: "https://maps.app.goo.gl/UG9saLC32HLTGjUW6"
+    
     
     afternoon:
     evening:
