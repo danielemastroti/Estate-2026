@@ -4,37 +4,37 @@ description: "Tutte le prenotazioni e i documenti del viaggio"
 bookings:
   - name: "Prenotazione appartamenti"
     items:
-      - title: "Appartamento Colmar (fr)"
+      - title: "Appartamento Colmar"
         date: "15-22 Agosto 2026"
-        description: "Subtil Insolite, check-in ore 16:30"
+        description: "Subtil Insolite - Route de Bâle 9, 68000 Colmar, Francia - check-in ore 16:30"
         link: ""
       
-      - title: "Villa panoramica - Icogne (ch)"
+      - title: "Villa panoramica - Icogne"
         date: "22-29 Agosto 2026"
-        description: "Villa moderna con Jaccuzzi, check-in ore 17:00"
+        description: "Villa moderna con Jaccuzzi - Route du Cachiblio 38, 1977 Icogne, Svizzera - check-in ore 17:00"
         link: ""
 
   - name: "Prenotazione attrazioni"
     items:
       - title: "Parcheggio Parkhaus Zermatt"
         date: "26 Agosto 2026, ore xx:xx"
-        description: ""
-        link: ""
+        description: "Parcheggio appena fuori Zermatt da cui prendere la navetta"
+        link: "https://drive.google.com/drive/folders/1qAqHzkfZu_ZrN_2Uk2yUaqgPgtt-9A3s?usp=drive_link"
 
-      - title: "Navetta da Parkhaus a Zermatt"
+      - title: "Navetta da Matterhorn Terminal Täsch a Zermatt"
         date: "xx Agosto 2026, ore xx:xx"
-        description: ""
-        link: ""
+        description: "La durata del tragitto è di 12 minuti, I treni partono con una frequenza di circa ogni 20 minuti"
+        link: "https://drive.google.com/drive/folders/1nP1os1RiLGUcZPlfoZKJDtKeF8FNmzvO?usp=drive_link"
 
       - title: "Trenino Zermatt Gornergrat (A/R)"
         date: "xx Agosto 2026, ore xx:xx"
-        description: ""
-        link: ""
+        description: "Il viaggio con il trenino a cremagliera Gornergrat Bahn da Zermatt alla vetta dura mediamente 33-35 minuti a tratta. Il tragitto copre una distanza di circa 9 km, superando un dislivello di oltre 1.400 metri"
+        link: "https://drive.google.com/drive/folders/19knZJcRN34DQU_m_AwvEjqD2eKUHmsPR?usp=drive_link"
       
       
       - title: "Priorità trenino Zermatt Gornergrat (A/R)"
         date: "xx Agosto 2026, ore xx:xx"
-        description: ""
+        description: "Valutare se acuistare priorità"
         link: ""
       
 
@@ -69,6 +69,9 @@ important_numbers:
   # ... aggiungi/rimuovi come vuoi
 
 contacts:
-  - name: "xxxx"
-    phone: "+39 02 1234 5678"
-    email: "xxx@xxx.it"
+  - name: "Host Colmar"
+    phone: "+33688452999"
+    email: "5698212908-nfwn.w2uh.cpfq.zwft@property.booking.com"
+  - name: "Host Icogne"
+    phone: ""
+    email: ""
