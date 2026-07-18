@@ -456,6 +456,12 @@ days:
     name: "Giorno 8"
     date: "Sabato 22 Agosto - Partenza per Icogne!"
     morning:
+    - time: "10:00"
+      title: "Partenza"
+      descrition: "Partenza per Icogne passando da Sion"
+      link: "Vale la pena fare una sosta a Sion: la più antica città svizzera nella soleggiata valle del Rodano è caratterizzata dalle sue colline, su cui si erigono vari castelli, e dal centro storico. Parti da qui, esplora il Vallese e assaggia le varie specialità, come i famosi vini vallesani direttamente nei vigneti"
+      mappa: "https://maps.app.goo.gl/wQPYrimWr2pfzg6g6"
+      suggerimenti: "Valutare se fare prima tappa a Berna"
     afternoon:
     - time: "17:00"
       title: "Check-in Icogne"

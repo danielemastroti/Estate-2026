@@ -141,6 +141,18 @@ routes:
     distance: "25 Km"
     duration: "38 minuti"
     notes: ""
+  
+  - from: "Colmar"
+    to: "Berna"
+    distance: "158 Km"
+    duration: "2 ore e 7 minuti"
+    notes: "Da Colmar si può fare tappa a Berna o in alternativa a Sion"
+
+  - from: "Colmar"
+    to: "Sion"
+    distance: "312 Km"
+    duration: "3 ore e 28 minuti"
+    notes: "Da Colmar si può fare tappa a Sion"
 
   - from: "Colmar"
     to:  "Icogne"
