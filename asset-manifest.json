@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Estate-2026/static/css/main.c842ff3a.css",
+    "main.css": "/Estate-2026/static/css/main.793e42b9.css",
     "main.js": "/Estate-2026/static/js/main.f5fe4e32.js",
     "index.html": "/Estate-2026/index.html",
-    "main.c842ff3a.css.map": "/Estate-2026/static/css/main.c842ff3a.css.map",
+    "main.793e42b9.css.map": "/Estate-2026/static/css/main.793e42b9.css.map",
     "main.f5fe4e32.js.map": "/Estate-2026/static/js/main.f5fe4e32.js.map"
   },
   "entrypoints": [
-    "static/css/main.c842ff3a.css",
+    "static/css/main.793e42b9.css",
     "static/js/main.f5fe4e32.js"
   ]
 }
