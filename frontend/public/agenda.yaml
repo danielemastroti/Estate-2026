@@ -3,8 +3,8 @@
 # Casa Icogne: Rte du Cachiblio 38, 1977 Icogne, Svizzera
 days:
   - id: 1
-    name: "Giorno 1 - Partenza!"
-    date: "Sabato 15 Agosto"
+    name: "Giorno 1"
+    date: "Sabato 15 Agosto - Partenza !"
     morning:
       - time: "07:30"
         title: "Partenza"
@@ -535,8 +535,8 @@ days:
     evening:
 
   - id: 15
-    name: "Giorno 15 - Ritorno"
-    date: "Sabato 29 Agosto"
+    name: "Giorno 15"
+    date: "Sabato 29 Agosto  - Ritorno"
     morning:
 
     afternoon:
@@ -552,7 +552,7 @@ days:
       link: 
       mappa: "https://maps.app.goo.gl/akGWExNdfpsAR6iP8"
       
-      evening:
+    evening:
 
 
 
