@@ -6,7 +6,7 @@ bookings:
     items:
       - title: "Appartamento Colmar"
         date: "15-22 Agosto 2026"
-        description: "Subtil Insolite - Route de Bâle 9, 68000 Colmar, Francia - check-in ore 16:30"
+        description: "Subtil Insolite - Route de Bâle 9, 68000 Colmar, Francia - check-in ore 16:30 - check-out dalle 7.00 alle 10.00"
         link: "https://drive.google.com/drive/folders/165_Wg7SgS3VCeJe7jmlMO97aBoiAfBkI?usp=drive_link"
       
       - title: "Villa panoramica - Icogne"
@@ -75,3 +75,9 @@ contacts:
   - name: "Host Icogne"
     phone: ""
     email: ""
+  - name: "Assistenza Airbnb"
+    phone: "+39 06 99366533"
+    email: "support@airbnb.com"
+  - name: "Assistenza Booking.com"
+    phone: "+39 06 83365700"
+    email: "assistenza.clienti@booking.com"
