@@ -448,7 +448,7 @@ days:
 
       - time: "21:00"
         title: "Passeggiata nella Petite Venise"
-        description: "https://www.tripadvisor.it/Attraction_Review-g187073-d523501-Reviews-Little_Venice-Colmar_Haut_Rhin_Grand_Est.html"
+        link: "https://www.tripadvisor.it/Attraction_Review-g187073-d523501-Reviews-Little_Venice-Colmar_Haut_Rhin_Grand_Est.html"
         mappa: "https://maps.app.goo.gl/sZXdUC7vRLpxwZCD6"
 
   
