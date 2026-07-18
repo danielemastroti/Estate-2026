@@ -7,12 +7,12 @@ bookings:
       - title: "Appartamento Colmar"
         date: "15-22 Agosto 2026"
         description: "Subtil Insolite - Route de Bâle 9, 68000 Colmar, Francia - check-in ore 16:30"
-        link: ""
+        link: "https://drive.google.com/drive/folders/165_Wg7SgS3VCeJe7jmlMO97aBoiAfBkI?usp=drive_link"
       
       - title: "Villa panoramica - Icogne"
         date: "22-29 Agosto 2026"
-        description: "Villa moderna con Jaccuzzi - Route du Cachiblio 38, 1977 Icogne, Svizzera - check-in ore 17:00"
-        link: ""
+        description: "Villa moderna con Jaccuzzi - Route du Cachiblio 38, 1977 Icogne, Svizzera - check-in ore 17:00 - check-out prima delle ore 11.00"
+        link: "https://drive.google.com/drive/folders/165_Wg7SgS3VCeJe7jmlMO97aBoiAfBkI?usp=drive_link"
 
   - name: "Prenotazione attrazioni"
     items:
