@@ -4,7 +4,7 @@
 days:
   - id: 1
     name: "Giorno 1"
-    date: "Sabato 15 Agosto - Partenza !"
+    date: "Sabato 15 Agosto - Partenza per Colmar!"
     morning:
       - time: "07:30"
         title: "Partenza"
@@ -453,8 +453,8 @@ days:
 
   
   - id: 8
-    name: "Giorno 8 - Partenza"
-    date: "Sabato 22 Agosto"
+    name: "Giorno 8"
+    date: "Sabato 22 Agosto - Partenza per Icogne!"
     morning:
     afternoon:
     - time: "17:00"
