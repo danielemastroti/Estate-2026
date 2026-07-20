@@ -495,35 +495,41 @@ days:
     name: "Giorno 12"
     date: "Mercoledì 26 Agosto"
     morning:
-    - time: "xx:xx"
-      title: "Parkhaus Zermatt"
-      descrition: "Parcheggio per prendere navetta verso Zermatt"
-      link: "https://www.google.com/search?q=parcheggio+zermatt&rlz=1C1GCEB_enIT1205IT1205&oq=parcheggio+zermatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMxMzFqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8&safe=active&ssui=on#sv=CAwSNwoGbGNsX3B2EhkKA3B2cRISQ2dzdlp5OHhkSEY1WkdSclpnGhJsb2NhbC1wbGFjZS12aWV3ZXIYCiDN3IWcBQ"
-      mappa: "https://maps.app.goo.gl/SCJhj181Ypp2uAXa8"
-    
-    - time: "xx:xx"
-      title: "Navetta"
-      descrition: "Prendere navetta per Zermatt"
-    
-    - time: "xx:xx"
-      title: "Trenino"
-      descrition: "Da Zermatt prendere trenino per Gornergrat"
+      - time: "xx:xx"
+        title: "Parkhaus Zermatt"
+        descrition: "Parcheggio per prendere navetta verso Zermatt"
+        link: "https://www.google.com/search?q=parcheggio+zermatt&rlz=1C1GCEB_enIT1205IT1205&oq=parcheggio+zermatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMxMzFqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8&safe=active&ssui=on#sv=CAwSNwoGbGNsX3B2EhkKA3B2cRISQ2dzdlp5OHhkSEY1WkdSclpnGhJsb2NhbC1wbGFjZS12aWV3ZXIYCiDN3IWcBQ"
+        mappa: "https://maps.app.goo.gl/SCJhj181Ypp2uAXa8"
+      
+      - time: "xx:xx"
+        title: "Navetta"
+        descrition: "Prendere navetta per Zermatt il percorso dura circa 12 minuti. I treni partono con una frequenza di circa ogni 20 minuti"
+      
+      - time: "xx:xx"
+        title: "Trenino destinazione Gornergrat"
+        descrition: "Da Zermatt prendere trenino per Gornergrat."
 
-    - time: "xx:xx"
-      title: "Trenino"
-      descrition: "Da Gornergrat tornare verso Zermatt...volendo con fermate intermedie"
-    
-    - time: "xx:xx"
-      title: "Navetta"
-      descrition: "Da Zermatt prendere navetta per parcheggio Parkhaus Zermatt"
-    
-    - time: "xx:xx"
-      title: "Rientro"
-      descrition: "Rientro a Icogne"
-      mappa: "https://maps.app.goo.gl/jaTjvveN5q94k1Aq6"
-    
-    
     afternoon:
+      - time: "xx:xx"
+        title: "Trenino destinazione Zermatt"
+        descrition: "Da Gornergrat tornare verso Zermatt facendo eventualmente le fermate intermedie."
+        suggerimenti: "Fermate:
+         - Gornergrat - 3.089 m s.l.m. Capolinea con terrazza panoramica a 360° sul Monte Rosa, sul ghiacciaio del Gorner e sul Cervino.
+         - Rotenboden - 2.815 m s.l.m. Punto di partenza per il sentiero che conduce in circa 10 minuti al lago Riffelsee, famoso per il riflesso del Cervino.
+         - Riffelberg - 2.582 m s.l.m. Stazione con ristoranti e hotel, molto frequentata da escursionisti e sciatori.
+         - Riffelalp - 2.211 m s.l.m. Accesso al celebre hotel di montagna e alla tranvia più alta d'Europa.
+         -  Findelbach - 1.770 m s.l.m. Fermata immersa nei boschi, ideale per passeggiate e trekking.
+         -  Zermatt GGB - 1.605 m s.l.m. Stazione di partenza/arrivo, situata di fronte alla stazione ferroviaria principale di Zermatt."
+    
+      - time: "xx:xx"
+        title: "Navetta"
+        descrition: "Da Zermatt prendere navetta per parcheggio Parkhaus Zermatt, il percorso dira circa 12 minuti. I treni partono con una frequenza di circa ogni 20 minuti."
+      
+      - time: "xx:xx"
+        title: "Rientro"
+        descrition: "Rientro a Icogne"
+        mappa: "https://maps.app.goo.gl/jaTjvveN5q94k1Aq6"
+   
     evening:
 
   - id: 13
