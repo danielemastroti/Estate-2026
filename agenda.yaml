@@ -507,7 +507,8 @@ days:
       
       - time: "xx:xx"
         title: "Trenino destinazione Gornergrat"
-        description: "Da Zermatt prendere trenino per Gornergrat."
+        description: "Da Zermatt prendere trenino per Gornergrat. Il viaggio con il trenino a cremagliera Gornergrat Bahn da Zermatt alla vetta dura mediamente 33-35 minuti a tratta. Il tragitto copre una distanza di circa 9 km, superando un dislivello di oltre 1.400 metri"
+        link: "https://www.gornergrat.ch/en/?utm_source=google&utm_medium=cpc&utm_campaign=brand_en_sommer_2025_ggb_brand&gad_source=1&gad_campaignid=20523805149&gbraid=0AAAAADGCFxJFbxp7EEKwzibKA7h79O8Ui&gclid=Cj0KCQjwjvfSBhDpARIsAEiOpSun4iRAM-nhkA7PLgNG0xBrV-5OkGihbnbYgX4T7TsziDNNlLjCzVYaAmjmEALw_wcB"
 
     afternoon:
       - time: "xx:xx"
