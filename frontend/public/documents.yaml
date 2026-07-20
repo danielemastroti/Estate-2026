@@ -34,8 +34,8 @@ bookings:
       
       - title: "Priorità trenino Zermatt Gornergrat (A/R)"
         date: "xx Agosto 2026, ore xx:xx"
-        description: "Valutare se acquistare priorità"
-        link: ""
+        description: "Valutare se acquistare priority boarding"
+        link: "https://www.gornergrat.ch/en/stories/priority-boarding?gad_source=1&gad_campaignid=20523805149&gbraid=0AAAAADGCFxJFbxp7EEKwzibKA7h79O8Ui&gclid=Cj0KCQjwjvfSBhDpARIsAEiOpSsgoA3XrXHw3lIoPNtl-Arw_F0K3iI32311Y6Lp1U-iK6aGUezgkKAaAul6EALw_wcB"
       
 
   - name: "Prenotazione ristoranti"
