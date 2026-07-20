@@ -506,12 +506,20 @@ days:
       descrition: "Prendere navetta per Zermatt"
     
     - time: "xx:xx"
-      title: "Trenino"
+      title: "Trenino destinazione Gornergrat"
       descrition: "Da Zermatt prendere trenino per Gornergrat"
 
+    afternoon:
     - time: "xx:xx"
-      title: "Trenino"
-      descrition: "Da Gornergrat tornare verso Zermatt...volendo con fermate intermedie"
+      title: "Trenino destinazione Zermatt"
+      descrition: "Da Gornergrat tornare verso Zermatt facendo eventualmente le fermate intermedie."
+      suggerimenti: "Fermate:
+       Gornergrat - 3.089 m s.l.m. Capolinea con terrazza panoramica a 360° sul Monte Rosa, sul ghiacciaio del Gorner e sul Cervino.
+       Rotenboden - 2.815 m s.l.m. Punto di partenza per il sentiero che conduce in circa 10 minuti al lago Riffelsee, famoso per il riflesso del Cervino.
+       Riffelberg - 2.582 m s.l.m. Stazione con ristoranti e hotel, molto frequentata da escursionisti e sciatori.
+       Riffelalp - 2.211 m s.l.m. Accesso al celebre hotel di montagna e alla tranvia più alta d'Europa.
+       Findelbach - 1.770 m s.l.m. Fermata immersa nei boschi, ideale per passeggiate e trekking.
+       Zermatt GGB - 1.605 m s.l.m. Stazione di partenza/arrivo, situata di fronte alla stazione ferroviaria principale di Zermatt."
     
     - time: "xx:xx"
       title: "Navetta"
@@ -521,9 +529,7 @@ days:
       title: "Rientro"
       descrition: "Rientro a Icogne"
       mappa: "https://maps.app.goo.gl/jaTjvveN5q94k1Aq6"
-    
-    
-    afternoon:
+   
     evening:
 
   - id: 13
