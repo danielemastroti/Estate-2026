@@ -394,13 +394,13 @@ days:
 
       - time: "09:00"
         title: "Munster"
-        descrition: "Valle Munster - o Val San Gregorio - si compone di sedici comuni Munster che è il capoluogo del Cantone. I suoi paesaggi, unendo tradizione e modernità, offrendo ai visitatori una vasta gamma di colori che variano con le stagioni."
+        description: "Valle Munster - o Val San Gregorio - si compone di sedici comuni Munster che è il capoluogo del Cantone. I suoi paesaggi, unendo tradizione e modernità, offrendo ai visitatori una vasta gamma di colori che variano con le stagioni."
         link: "https://www.france-voyage.com/francia-citta/munster-27116.htm"
         mappa: "https://maps.app.goo.gl/18axMKyPCaDtpjho7"
 
       - time: "09:45"
         title: "Col de la Schlucht"
-        descrition: "Il Col de la Schlucht (1139 m) è un famoso passo montano dei Vosgi, situato al confine tra Alsazia e Lorena. Raggiungibile da Munster o Gérardmer tramite la strada D417, è un rinomato snodo per escursionisti, ciclisti e amanti della natura, e offre l'accesso diretto alla spettacolare Route des Crêtes"
+        description: "Il Col de la Schlucht (1139 m) è un famoso passo montano dei Vosgi, situato al confine tra Alsazia e Lorena. Raggiungibile da Munster o Gérardmer tramite la strada D417, è un rinomato snodo per escursionisti, ciclisti e amanti della natura, e offre l'accesso diretto alla spettacolare Route des Crêtes"
         link: "https://www.france-voyage.com/francia-citta/le-valtin-35132/passo-schlucht-27951.htm"
         mappa: "https://maps.app.goo.gl/C3pRRfQC2jtDqZVu6"
 
@@ -410,20 +410,20 @@ days:
 
       - time: "11:15"
         title: "Hohneck"
-        descrition: "Lo Hohneck (1.363 m s.l.m.) è la terza cima più alta dei Vosgi, situata nel cuore del massiccio e del Parco Naturale Regionale dei Ballons des Vosges. Offre una vista panoramica incredibile sull'Alsazia e la Lorena. Punto di riferimento per escursionisti, ciclisti e amanti della natura in estate, e vicino alle stazioni sciistiche in inverno"
+        description: "Lo Hohneck (1.363 m s.l.m.) è la terza cima più alta dei Vosgi, situata nel cuore del massiccio e del Parco Naturale Regionale dei Ballons des Vosges. Offre una vista panoramica incredibile sull'Alsazia e la Lorena. Punto di riferimento per escursionisti, ciclisti e amanti della natura in estate, e vicino alle stazioni sciistiche in inverno"
         link: "https://www.france-voyage.com/francia-guida-turismo/hohneck-387.htm"
         mappa: "https://maps.app.goo.gl/uW3yYRQMX8NPZujs7"
 
     afternoon:
       - time: "12:30"
         title: "Pranzo in Ferme Auberge"
-        descrition: "A 5 km da Breitenbach, tra le montagne del Petit Ballon, vi attende una vista meravigliosa sulle cime delle Crêtes. Verranno preparati piatti regionali e rurali con prodotti freschi di fattoria."
+        description: "A 5 km da Breitenbach, tra le montagne del Petit Ballon, vi attende una vista meravigliosa sulle cime delle Crêtes. Verranno preparati piatti regionali e rurali con prodotti freschi di fattoria."
         link: "https://www.visit.alsace/en/231001268-ferme-auberge-du-christlesgut/"
         mappa: "https://maps.app.goo.gl/K8fyrPNJYWBSPLhB8"
 
       - time: "14:00"
         title: "Lac Blanc"
-        descrition: "Il lago Bianco si trova nel comune di Orbey, nell'Alto Reno, al confine con il dipartimento dei Vosgi, a 30 km a nord-ovest di Colmar. A 1055 m di altitudine, occupa un antico circo glaciale del massiccio dei Vosgi e il suo nome deriva dalla sabbia cristallina che ne ricopre il fondo."
+        description: "Il lago Bianco si trova nel comune di Orbey, nell'Alto Reno, al confine con il dipartimento dei Vosgi, a 30 km a nord-ovest di Colmar. A 1055 m di altitudine, occupa un antico circo glaciale del massiccio dei Vosgi e il suo nome deriva dalla sabbia cristallina che ne ricopre il fondo."
         link: "https://www.france-voyage.com/francia-citta/orbey-27138/lago-blanc-32913.htm"
         mappa: "https://maps.app.goo.gl/6bfnzeFwF3FaH1jP9"
 
@@ -432,13 +432,13 @@ days:
 
       - time: "16:15"
         title: "Col du Calvaire"
-        descrition: "Il Col du Calvaire è un noto valico montano dei Vosgi (1.144 m s.l.m.) situato al confine tra Alsazia e Lorena. Famoso per la sua posizione panoramica sulla celebre Route des Crêtes, funge da spartiacque naturale e offre una vista spettacolare sui laghi glaciali sottostanti e sulla valle"
+        description: "Il Col du Calvaire è un noto valico montano dei Vosgi (1.144 m s.l.m.) situato al confine tra Alsazia e Lorena. Famoso per la sua posizione panoramica sulla celebre Route des Crêtes, funge da spartiacque naturale e offre una vista spettacolare sui laghi glaciali sottostanti e sulla valle"
         link: "https://en.wikipedia.org/wiki/Col_du_Calvaire"
         mappa: "https://maps.app.goo.gl/oWiHQ6XD4woA8PKu6"
 
       - time: "17:00"
         title: "Rientro passando da Orbey"
-        descrition: "Orbey è un caratteristico comune francese della regione del Grand Est (dipartimento dell'Alto Reno), situato nel cuore del massiccio dei Vosgi a circa 500-550 metri di altitudine, a circa 30 minuti d'auto a nord-ovest di Colmar. Immerso nei boschi, è rinomato per i suoi laghi d'alta quota e le sue bellezze naturali"
+        description: "Orbey è un caratteristico comune francese della regione del Grand Est (dipartimento dell'Alto Reno), situato nel cuore del massiccio dei Vosgi a circa 500-550 metri di altitudine, a circa 30 minuti d'auto a nord-ovest di Colmar. Immerso nei boschi, è rinomato per i suoi laghi d'alta quota e le sue bellezze naturali"
         link: "https://www.france-voyage.com/francia-citta/orbey-27138.htm"
         mappa: "https://maps.app.goo.gl/93SEfzE7jYtbRCbY6"
 
@@ -458,14 +458,14 @@ days:
     morning:
     - time: "10:00"
       title: "Partenza"
-      descrition: "Partenza per Icogne passando da Sion"
+      description: "Partenza per Icogne passando da Sion"
       link: "Vale la pena fare una sosta a Sion: la più antica città svizzera nella soleggiata valle del Rodano è caratterizzata dalle sue colline, su cui si erigono vari castelli, e dal centro storico. Parti da qui, esplora il Vallese e assaggia le varie specialità, come i famosi vini vallesani direttamente nei vigneti"
       mappa: "https://maps.app.goo.gl/wQPYrimWr2pfzg6g6"
       suggerimenti: "Valutare se fare prima tappa a Berna"
     afternoon:
     - time: "17:00"
       title: "Check-in Icogne"
-      descrition: "Check-in villa Icogne"
+      description: "Check-in villa Icogne"
       link: "https://www.airbnb.it/rooms/988004087171272983?unique_share_id=fa9f6a85-5b41-49fc-b400-f1b9e7cd08cb&viralityEntryPoint=1&s=76&source_impression_id=p3_1784290462_P3mgLkEZLmvevkNi"
       mappa: "https://maps.app.goo.gl/UG9saLC32HLTGjUW6"
     evening:
@@ -497,37 +497,37 @@ days:
     morning:
       - time: "xx:xx"
         title: "Parkhaus Zermatt"
-        descrition: "Parcheggio per prendere navetta verso Zermatt"
+        description: "Parcheggio per prendere navetta verso Zermatt"
         link: "https://www.google.com/search?q=parcheggio+zermatt&rlz=1C1GCEB_enIT1205IT1205&oq=parcheggio+zermatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMxMzFqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8&safe=active&ssui=on#sv=CAwSNwoGbGNsX3B2EhkKA3B2cRISQ2dzdlp5OHhkSEY1WkdSclpnGhJsb2NhbC1wbGFjZS12aWV3ZXIYCiDN3IWcBQ"
         mappa: "https://maps.app.goo.gl/SCJhj181Ypp2uAXa8"
       
       - time: "xx:xx"
         title: "Navetta"
-        descrition: "Prendere navetta per Zermatt il percorso dura circa 12 minuti. I treni partono con una frequenza di circa ogni 20 minuti"
+        description: "Prendere navetta per Zermatt il percorso dura circa 12 minuti. I treni partono con una frequenza di circa ogni 20 minuti"
       
       - time: "xx:xx"
         title: "Trenino destinazione Gornergrat"
-        descrition: "Da Zermatt prendere trenino per Gornergrat."
+        description: "Da Zermatt prendere trenino per Gornergrat."
 
     afternoon:
       - time: "xx:xx"
         title: "Trenino destinazione Zermatt"
-        descrition: "Da Gornergrat tornare verso Zermatt facendo eventualmente le fermate intermedie."
+        description: "Da Gornergrat tornare verso Zermatt facendo eventualmente le fermate intermedie."
         suggerimenti: "Fermate:
          - Gornergrat - 3.089 m s.l.m. Capolinea con terrazza panoramica a 360° sul Monte Rosa, sul ghiacciaio del Gorner e sul Cervino.
          - Rotenboden - 2.815 m s.l.m. Punto di partenza per il sentiero che conduce in circa 10 minuti al lago Riffelsee, famoso per il riflesso del Cervino.
          - Riffelberg - 2.582 m s.l.m. Stazione con ristoranti e hotel, molto frequentata da escursionisti e sciatori.
          - Riffelalp - 2.211 m s.l.m. Accesso al celebre hotel di montagna e alla tranvia più alta d'Europa.
-         -  Findelbach - 1.770 m s.l.m. Fermata immersa nei boschi, ideale per passeggiate e trekking.
-         -  Zermatt GGB - 1.605 m s.l.m. Stazione di partenza/arrivo, situata di fronte alla stazione ferroviaria principale di Zermatt."
+         - Findelbach - 1.770 m s.l.m. Fermata immersa nei boschi, ideale per passeggiate e trekking.
+         - Zermatt GGB - 1.605 m s.l.m. Stazione di partenza/arrivo, situata di fronte alla stazione ferroviaria principale di Zermatt."
     
       - time: "xx:xx"
         title: "Navetta"
-        descrition: "Da Zermatt prendere navetta per parcheggio Parkhaus Zermatt, il percorso dira circa 12 minuti. I treni partono con una frequenza di circa ogni 20 minuti."
+        description: "Da Zermatt prendere navetta per parcheggio Parkhaus Zermatt, il percorso dira circa 12 minuti. I treni partono con una frequenza di circa ogni 20 minuti."
       
       - time: "xx:xx"
         title: "Rientro"
-        descrition: "Rientro a Icogne"
+        description: "Rientro a Icogne"
         mappa: "https://maps.app.goo.gl/jaTjvveN5q94k1Aq6"
    
     evening:
@@ -554,13 +554,13 @@ days:
     afternoon:
     - time: "14:00"
       title: "Rientro Berry"
-      descrition: "Rientro a Settimo Milanese"
+      description: "Rientro a Settimo Milanese"
       link: 
       mappa: "https://maps.app.goo.gl/TaLaSEn6HfQQczru9"
     
     - time: "14:01"
       title: "Rientro Tasc"
-      descrition: "Rientro a Craveggia"
+      description: "Rientro a Craveggia"
       link: 
       mappa: "https://maps.app.goo.gl/akGWExNdfpsAR6iP8"
       
