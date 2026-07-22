@@ -30,12 +30,12 @@ days:
 
       - time: "16:30"
         title: "Check-in"
-        description: "Check-in presso appartamento Subtil insolite, 9 Route de Bâle"
+        description: "Check-in e sistemazioni presso appartamento Subtil insolite, 9 Route de Bâle"
         link: ""
         mappa: "https://maps.app.goo.gl/rxFaUW12szCqgQkz9"
         suggerimenti: "La tassa di soggiorno e il parcheggio vanno saldati in loco"
       
-      - time: "17:00"
+      - time: "17:30"
         title: "Spesa"
         description: "Spesa e tempo libero"
         link: "" 
@@ -129,8 +129,14 @@ days:
         link: "https://www.komoot.com/it-it/highlight/296788"
         mappa: "https://maps.app.goo.gl/rkjs6d4PDo61mDHV8"
 
-      
       - time: "22:00"
+        title: "Parcheggio Friburgo"
+        description: "Andare al parcheggio P&R Bissierstraße, 7"
+        link: ""
+        mappa: "https://maps.app.goo.gl/6yNit2gz5nLuLdqP6"
+        suggerimenti: ""
+      
+      - time: "22:30"
         title: "Rientro"
         description: "Rientro a Colmar"
         link: ""
@@ -173,8 +179,15 @@ days:
         link: "https://www.freyburger.fr/"
         mappa: "https://maps.app.goo.gl/Kg5PRZwjs3GX8TFr7"
         suggerimenti: "Acquista qualche bottiglia direttamente dai produttori: spesso i prezzi sono molto convenienti."
-      
-      - time: "18:00"
+    
+      - time: "18:05"
+        title: "Giro in barca"
+        description: "Giro in barca (facoltativo)"
+        link: "https://sweet-narcisse.fr/it"
+        mappa: "https://maps.app.goo.gl/bFnfENF3moAaL1W96"
+        suggerimenti: "Da calendario l'ultima corsa è alle 18.05. Se si è intenzionati, meglio prenotare"
+    evening:
+      - time: "19:05"
         title: "Petite Venice"
         description: "Visita quartiere Petite Venice e giro in barca (facoltativo)"
         link: "https://www.tripadvisor.it/Attraction_Review-g187073-d523501-Reviews-Little_Venice-Colmar_Haut_Rhin_Grand_Est.html"
@@ -182,13 +195,7 @@ days:
         suggerimenti: 
           - "Arriva a Petite Venise dopo le 18:00: la luce è perfetta e c'è molta meno gente."
           - "Se piove visita il Museo Unterlinden."
-    evening:
-      - time: "19:00"
-        title: "Giro in barca spostare"
-        description: "Giro in barca (facoltativo) - Meglio prenotare"
-        link: "https://sweet-narcisse.fr/it"
-        mappa: "https://maps.app.goo.gl/bFnfENF3moAaL1W96"
-
+    
       - time: "20:00"
         title: "Cena"
         description: "Cena a Colmar"
@@ -257,6 +264,7 @@ days:
         title: "Rientro"
         description: "Rientro a Colmar"
         link: 
+        suggerimenti: "Valutare se fermarsi per strada per la cena, la durata del viaggio fino a Colmar è di circa 1 ora e 40 minuti"
         mappa: "https://maps.app.goo.gl/rxFaUW12szCqgQkz9" 
       
       
@@ -265,7 +273,7 @@ days:
         title: "Arrivo a Colmar"
         description: "Arrivo a Colmar e cena"
         link: ""
-        suggerimenti: "Valutare se fermarsi per strada per la cena"
+        
 
   - id: 5
     name: "Giorno 5"
@@ -276,7 +284,7 @@ days:
         description: "Partenza per Strasburgo"
         link: 
         mappa: "https://maps.app.goo.gl/QwgyYdCBUp6mzi187" 
-        suggerimenti: "Se non hai il bollino Crit'Air (necessario per alcune zone della ZFE di Strasburgo), la soluzione più comoda è non entrare nel centro storico in auto e usare un parcheggio scambiatore P+R (Park & Ride): lasci l'auto fuori dalla zona regolamentata e arrivi in centro con il tram. I P+R includono anche il trasporto pubblico per gli occupanti dell’auto (fino a 7 persone"
+        suggerimenti: "Se non hai il bollino Crit'Air (necessario per alcune zone della ZFE di Strasburgo), la soluzione più comoda è non entrare nel centro storico in auto e usare un parcheggio scambiatore P+R (Park & Ride): lasci l'auto fuori dalla zona regolamentata e arrivi in centro con il tram. I P+R includono anche il trasporto pubblico per gli occupanti dell’auto (fino a 7 persone)"
       
       - time: "09:00"
         title: "Strasburgo"
@@ -450,7 +458,6 @@ days:
         title: "Passeggiata nella Petite Venise"
         link: "https://www.tripadvisor.it/Attraction_Review-g187073-d523501-Reviews-Little_Venice-Colmar_Haut_Rhin_Grand_Est.html"
         mappa: "https://maps.app.goo.gl/sZXdUC7vRLpxwZCD6"
-
   
   - id: 8
     name: "Giorno 8"
@@ -458,22 +465,76 @@ days:
     morning:
     - time: "10:00"
       title: "Partenza"
-      description: "Partenza per Icogne passando da Sion"
-      link: "Vale la pena fare una sosta a Sion: la più antica città svizzera nella soleggiata valle del Rodano è caratterizzata dalle sue colline, su cui si erigono vari castelli, e dal centro storico. Parti da qui, esplora il Vallese e assaggia le varie specialità, come i famosi vini vallesani direttamente nei vigneti"
-      mappa: "https://maps.app.goo.gl/wQPYrimWr2pfzg6g6"
-      suggerimenti: "Valutare se fare prima tappa a Berna"
+      description: "Partenza Icogne con tappe Berna (facoltativo)"
+      link: ""
+      mappa: ""
+      suggerimenti: ""
+    
+    - time: "12:00"
+      title: "Fermata a Berna per pranzo (facoltativo)"
+      description: "La capitale svizzera è un’opera omnia. Con il suo centro storico UNESCO (dal 1983), la cattedrale, la torre dell’orologio, le fontane e i numerosi portici, Berna è una delle città più belle della Svizzera. Per sei chilometri puoi camminare sotto i tipici portici e ammirare le cantine a volta con atelier, bar e negozi. Strada facendo, puoi visitare la Zytglogge (Torre dell’orologio) e la Cattedrale e osservare le imponenti case in arenaria e le numerose fontane storiche come la fontana dei Zähringer o la fontana del mangia bambini (Kindlifresser)."
+      link: ""
+      mappa: "https://maps.app.goo.gl/7RJUWEDs5iSdm87i6"
+      suggerimenti: "Parcheggiare al Park and Ride Neufeld e prendere mezzi per centro storico"
+    
+    - time: "12:10"
+      title: "Prendere mezzi per centro storico"
+      description: ""
+      link: ""
+      mappa: "https://maps.app.goo.gl/EMTkHdPBiw6BJEYz9"
+      suggerimenti: "Prendere tram 11 per centro storico (circa 9 minuti)"
+    
+    - time: "12:30"
+      title: "Pranzo a Berna"
+      description: "Pranzo (TBD)"
+      link: ""
+      mappa: ""
+      suggerimenti: ""
+    
     afternoon:
-    - time: "17:00"
-      title: "Check-in Icogne"
+    - time: "14:00"
+      title: "Centro storico Berna"
+      description: "Passeggiata nel centro storico di Berna"
+      link: ""
+      mappa: ""
+      suggerimenti: ""
+    
+    - time: "15:50"
+      title: "Prendere tram per parcheggio"
+      description: "Andare al parcheggio Park and Ride Neufeld"
+      link: ""
+      mappa: "https://maps.app.goo.gl/7RJUWEDs5iSdm87i6"
+      suggerimenti: ""
+    
+    - time: "16:00"
+      title: "Icogne"
+      description: "Partenza per Icogne"
+      link: ""
+      mappa: "https://maps.app.goo.gl/UG9saLC32HLTGjUW6"
+      suggerimenti: ""
+    
+    - time: "18:00"
+      title: "Check-in Icogne e sistemazione"
       description: "Check-in villa Icogne"
       link: "https://www.airbnb.it/rooms/988004087171272983?unique_share_id=fa9f6a85-5b41-49fc-b400-f1b9e7cd08cb&viralityEntryPoint=1&s=76&source_impression_id=p3_1784290462_P3mgLkEZLmvevkNi"
       mappa: "https://maps.app.goo.gl/UG9saLC32HLTGjUW6"
+      suggerimenti: "Organizzarsi per la cena"
+    
     evening:
-  
+    
+   
   - id: 9
     name: "Giorno 9"
     date: "Domenica 23 Agosto"
     morning:
+
+    - time: "10:00"
+      title: "Visita a  Sion (facoltativo)"
+      description: "Vale la pena fare una sosta a Sion: la più antica città svizzera nella soleggiata valle del Rodano è caratterizzata dalle sue colline, su cui si erigono vari castelli, e dal centro storico. Parti da qui, esplora il Vallese e assaggia le varie specialità, come i famosi vini vallesani direttamente nei vigneti"
+      link: ""
+      mappa: ""
+      suggerimenti: ""
+
     afternoon:
     evening:
 
