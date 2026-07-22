@@ -189,7 +189,7 @@ days:
     evening:
       - time: "19:05"
         title: "Petite Venice"
-        description: "Visita quartiere Petite Venice e giro in barca (facoltativo)"
+        description: "Visita quartiere Petite Venice"
         link: "https://www.tripadvisor.it/Attraction_Review-g187073-d523501-Reviews-Little_Venice-Colmar_Haut_Rhin_Grand_Est.html"
         mappa: "https://maps.app.goo.gl/sZXdUC7vRLpxwZCD6"
         suggerimenti: 
