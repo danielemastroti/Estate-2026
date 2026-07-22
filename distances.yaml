@@ -150,7 +150,7 @@ routes:
 
   - from: "Berna"
     to: "Icogne"
-    distance: "172 K "
+    distance: "172 Km"
     duration: "1 ora e 53 minuti"
     notes: "Da parcheggi P&R di Berna a villa Icogne"
 
