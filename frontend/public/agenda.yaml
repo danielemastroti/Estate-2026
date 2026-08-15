@@ -38,7 +38,7 @@ days:
       - time: "17:30"
         title: "Spesa"
         description: "Spesa e tempo libero"
-        mappa: "https://maps.app.goo.gl/yPvp13SQS6XUxrtv5"
+        mappa: "https://maps.app.goo.gl/iqnLEs8JjxuXgfyw7?g_st=aw"
         link: "https://www.e.leclerc" 
 
     evening:
