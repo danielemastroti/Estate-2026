@@ -90,11 +90,22 @@ export const DistancesPage = () => {
                       ⏱️ {route.duration}
                     </span>
                   </div>
-                  {route.notes && (
-                    <p className="text-sm font-sans text-slate-600 italic">
-                      {route.notes}
-                    </p>
-                  )}
+                  <div className="mt-3 pt-2 border-t border-black/5 flex flex-wrap items-center justify-between gap-2">
+                    {route.notes ? (
+                      <p className="text-sm font-sans text-slate-600 italic">
+                        {route.notes}
+                      </p>
+                    ) : <span />}
+                    <a
+                      href={`https://www.google.com/maps/dir/?api=1&origin=${encodeURIComponent(route.from)}&destination=${encodeURIComponent(route.to)}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1.5 text-xs font-mono font-medium text-slate-700 hover:text-slate-900 bg-slate-100 hover:bg-slate-200 px-2.5 py-1 rounded-md transition"
+                    >
+                      <Navigation size={12} />
+                      <span>Calcola su Google Maps</span>
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>

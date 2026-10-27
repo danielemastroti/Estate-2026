@@ -1,16 +1,20 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo, useRef } from 'react';
 import axios from 'axios';
 import * as yaml from 'js-yaml';
 import DaySelector from '@/components/DaySelector';
 import TimeSection from '@/components/TimeSection';
 import PrintButton from '@/components/PrintButton';
+import DayMap from '@/components/DayMap';
 import { Calendar } from 'lucide-react';
 
 export const AgendaPage = () => {
   const [agendaData, setAgendaData] = useState(null);
   const [selectedDay, setSelectedDay] = useState(1);
+  const [selectedActivityId, setSelectedActivityId] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+
+  const mapSectionRef = useRef(null);
 
   useEffect(() => {
     const fetchAgenda = async () => {
@@ -29,6 +33,68 @@ export const AgendaPage = () => {
 
     fetchAgenda();
   }, []);
+
+  // Quando si cambia giorno, resetta la selezione
+  useEffect(() => {
+    setSelectedActivityId(null);
+  }, [selectedDay]);
+
+  const currentDay = agendaData?.days?.find((d) => d.id === selectedDay);
+
+  // Prepara le attività del giorno con step numerato progressivo e id univoco
+  const { allDayActivities, morningActivities, afternoonActivities, eveningActivities } = useMemo(() => {
+    if (!currentDay) {
+      return {
+        allDayActivities: [],
+        morningActivities: [],
+        afternoonActivities: [],
+        eveningActivities: [],
+      };
+    }
+
+    let stepCounter = 1;
+
+    const mapWithStep = (items, period) => {
+      if (!items || !Array.isArray(items)) return [];
+      return items.map((item, index) => {
+        const stepNumber = stepCounter++;
+        const id = `${period}-${index}`;
+        return {
+          ...item,
+          stepNumber,
+          id,
+          period,
+          periodIndex: index,
+        };
+      });
+    };
+
+    const morning = mapWithStep(currentDay.morning, 'morning');
+    const afternoon = mapWithStep(currentDay.afternoon, 'afternoon');
+    const evening = mapWithStep(currentDay.evening, 'evening');
+
+    return {
+      allDayActivities: [...morning, ...afternoon, ...evening],
+      morningActivities: morning,
+      afternoonActivities: afternoon,
+      eveningActivities: evening,
+    };
+  }, [currentDay]);
+
+  const handleSelectActivityFromMap = (activity) => {
+    setSelectedActivityId(activity.id);
+    const element = document.getElementById(`activity-card-${activity.id}`);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  };
+
+  const handleFocusOnMap = (activityId) => {
+    setSelectedActivityId(activityId);
+    if (mapSectionRef.current) {
+      mapSectionRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
 
   if (loading) {
     return (
@@ -50,8 +116,6 @@ export const AgendaPage = () => {
       </div>
     );
   }
-
-  const currentDay = agendaData?.days?.find(d => d.id === selectedDay);
 
   return (
     <div className="agenda-page">
@@ -79,40 +143,60 @@ export const AgendaPage = () => {
       <div className="agenda-content max-w-4xl mx-auto px-4 py-8">
         {currentDay ? (
           <div className="day-section" data-testid={`day-content-${currentDay.id}`}>
-            <div className="mb-8">
+            <div className="mb-6">
               <h2 className="text-2xl sm:text-3xl font-serif tracking-tight text-slate-800 mb-2">
                 {currentDay.name}
               </h2>
-              <p className="text-base font-mono tracking-widest uppercase text-slate-500" style={{ letterSpacing: '0.2em' }}>
+              <p
+                className="text-base font-mono tracking-widest uppercase text-slate-500"
+                style={{ letterSpacing: '0.2em' }}
+              >
                 {currentDay.date}
               </p>
             </div>
 
+            {/* Mappa interattiva del giorno */}
+            <div ref={mapSectionRef}>
+              <DayMap
+                activities={allDayActivities}
+                dayName={currentDay.name}
+                selectedActivityId={selectedActivityId}
+                onSelectActivity={handleSelectActivityFromMap}
+              />
+            </div>
+
+            {/* Attività divise per orario */}
             <div className="space-y-8">
-              {currentDay.morning && currentDay.morning.length > 0 && (
+              {morningActivities.length > 0 && (
                 <TimeSection
                   title="Mattina"
-                  activities={currentDay.morning}
+                  activities={morningActivities}
                   color="#D4C5B9"
                   period="morning"
+                  selectedActivityId={selectedActivityId}
+                  onFocusOnMap={handleFocusOnMap}
                 />
               )}
 
-              {currentDay.afternoon && currentDay.afternoon.length > 0 && (
+              {afternoonActivities.length > 0 && (
                 <TimeSection
                   title="Pomeriggio"
-                  activities={currentDay.afternoon}
+                  activities={afternoonActivities}
                   color="#A3B1A6"
                   period="afternoon"
+                  selectedActivityId={selectedActivityId}
+                  onFocusOnMap={handleFocusOnMap}
                 />
               )}
 
-              {currentDay.evening && currentDay.evening.length > 0 && (
+              {eveningActivities.length > 0 && (
                 <TimeSection
                   title="Sera"
-                  activities={currentDay.evening}
+                  activities={eveningActivities}
                   color="#2C3E50"
                   period="evening"
+                  selectedActivityId={selectedActivityId}
+                  onFocusOnMap={handleFocusOnMap}
                 />
               )}
             </div>

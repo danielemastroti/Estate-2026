@@ -1,20 +1,39 @@
 import React from 'react';
-import { ExternalLink, Lightbulb, MapPin } from 'lucide-react';
+import { ExternalLink, Lightbulb, MapPin, Compass } from 'lucide-react';
 
-export const ActivityItem = ({ activity, index, period }) => {
+export const ActivityItem = ({
+  activity,
+  index,
+  period,
+  isSelected = false,
+  onFocusOnMap = null,
+}) => {
   const tips = activity.suggerimenti
     ? Array.isArray(activity.suggerimenti)
       ? activity.suggerimenti
       : [activity.suggerimenti]
     : [];
 
+  const activityId = activity.id || `${period}-${index}`;
+
   return (
     <div
-      className="activity-item bg-white border border-black/10 rounded-lg p-4 smooth-transition shadow-sm hover:shadow-md"
+      id={`activity-card-${activityId}`}
+      className={`activity-item bg-white border rounded-lg p-4 smooth-transition shadow-sm hover:shadow-md transition-all ${
+        isSelected
+          ? 'border-slate-900 ring-2 ring-slate-900/10 bg-slate-50/60'
+          : 'border-black/10'
+      }`}
       data-testid={`activity-${period}-${index}`}
     >
       <div className="flex gap-4">
-        <div className="flex-shrink-0">
+        {/* Orario e Badge Tappa */}
+        <div className="flex-shrink-0 flex flex-col items-center">
+          {activity.stepNumber && (
+            <span className="w-6 h-6 rounded-full bg-slate-900 text-white text-xs font-mono font-bold flex items-center justify-center mb-1 shadow-sm">
+              {activity.stepNumber}
+            </span>
+          )}
           <span className="text-sm font-mono font-semibold text-slate-900">
             {activity.time}
           </span>
@@ -38,7 +57,10 @@ export const ActivityItem = ({ activity, index, period }) => {
               <div className="flex items-start gap-2">
                 <Lightbulb size={14} className="flex-shrink-0 mt-0.5 text-amber-700" />
                 <div className="flex-1 min-w-0">
-                  <span className="block text-xs font-mono font-semibold uppercase tracking-wider text-amber-800 mb-1" style={{ letterSpacing: '0.15em' }}>
+                  <span
+                    className="block text-xs font-mono font-semibold uppercase tracking-wider text-amber-800 mb-1"
+                    style={{ letterSpacing: '0.15em' }}
+                  >
                     Suggerimenti
                   </span>
                   {tips.length === 1 ? (
@@ -63,8 +85,21 @@ export const ActivityItem = ({ activity, index, period }) => {
             </div>
           )}
 
-          {(activity.link || activity.mappa) && (
-            <div className="flex flex-wrap items-center gap-x-4 gap-y-1 mt-2">
+          {(activity.link || activity.mappa || onFocusOnMap) && (
+            <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mt-3 pt-2 border-t border-black/5">
+              {/* Focus sulla mappa integrata */}
+              {onFocusOnMap && (
+                <button
+                  type="button"
+                  onClick={() => onFocusOnMap(activityId)}
+                  className="inline-flex items-center gap-1.5 text-xs font-mono font-semibold text-slate-800 hover:text-slate-950 bg-slate-100 hover:bg-slate-200 px-2.5 py-1 rounded-md transition"
+                >
+                  <Compass size={13} className="text-slate-700" />
+                  <span>Mostra sulla mappa</span>
+                </button>
+              )}
+
+              {/* Link esterno dettagli */}
               {activity.link && (
                 <a
                   href={activity.link}
@@ -77,6 +112,8 @@ export const ActivityItem = ({ activity, index, period }) => {
                   <ExternalLink size={14} className="flex-shrink-0" />
                 </a>
               )}
+
+              {/* Link esterno Google Maps */}
               {activity.mappa && (
                 <a
                   href={activity.mappa}
@@ -86,7 +123,7 @@ export const ActivityItem = ({ activity, index, period }) => {
                   className="inline-flex items-center gap-1 text-sm font-sans font-medium text-emerald-700 hover:text-emerald-900 smooth-transition break-all"
                 >
                   <MapPin size={14} className="flex-shrink-0" />
-                  <span>Apri mappa</span>
+                  <span>Google Maps</span>
                 </a>
               )}
             </div>
@@ -98,5 +135,3 @@ export const ActivityItem = ({ activity, index, period }) => {
 };
 
 export default ActivityItem;
-
-
